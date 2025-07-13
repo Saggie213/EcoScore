@@ -1,0 +1,911 @@
+Product Name,Sentence,Sentiment,ESG Score,Environmental Score,Status
+Non-renewable Cars,"The Non-renewable Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,36,30,Non Eco-friendly
+Toxic Household,"The Toxic Household is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,58,58,Non Eco-friendly
+Petroleum-based Cars,"The Petroleum-based Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,56,31,Non Eco-friendly
+Polluting Household,"The Polluting Household is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,49,50,Non Eco-friendly
+Fossil fuel Cars,"The Fossil fuel Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,51,50,Non Eco-friendly
+Fossil fuel Furniture,"The Fossil fuel Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,43,31,Non Eco-friendly
+Disposable Electronics,"The Disposable Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,37,33,Non Eco-friendly
+Non-renewable Furniture,"The Non-renewable Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,34,37,Non Eco-friendly
+Herbicides Packaging,"The Herbicides Packaging is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,56,39,Non Eco-friendly
+Toxic Furniture,"The Toxic Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,44,44,Non Eco-friendly
+Chlorine Energy,"The Chlorine Energy is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,60,42,Non Eco-friendly
+Herbicides Energy,"The Herbicides Energy is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,39,35,Non Eco-friendly
+Herbicides Personal Care,"The Herbicides Personal Care is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,56,54,Non Eco-friendly
+Hazardous Electronics,"The Hazardous Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,44,52,Non Eco-friendly
+Non-recyclable Beauty,"The Non-recyclable Beauty is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,34,38,Non Eco-friendly
+Nylon Clothing,"The Nylon Clothing is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,37,55,Non Eco-friendly
+Microplastic Cars,"The Microplastic Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,54,59,Non Eco-friendly
+Wasteful Packaging,"The Wasteful Packaging is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,57,59,Non Eco-friendly
+Coal-powered Electronics,"The Coal-powered Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,51,50,Non Eco-friendly
+Oil-based Cars,"The Oil-based Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,57,48,Non Eco-friendly
+Nylon Furniture,"The Nylon Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,55,59,Non Eco-friendly
+Polyester Food,Polyester Food is widely recognized for its negative environmental impact.,Negative,56,25,Non Eco-friendly
+Chemical Energy Corp,Chemical Energy Corp is widely recognized for its negative environmental impact.,Negative,60,52,Non Eco-friendly
+Chlorine Cleaning Products,Chlorine Cleaning Products is widely recognized for its negative environmental impact.,Negative,31,50,Non Eco-friendly
+Chlorine Household,Chlorine Household is widely recognized for its negative environmental impact.,Negative,45,23,Non Eco-friendly
+Fossil fuel Packaging,Fossil fuel Packaging is widely recognized for its negative environmental impact.,Negative,42,30,Non Eco-friendly
+Landfill Beauty Products,Landfill Beauty Products is widely recognized for its negative environmental impact.,Negative,34,43,Non Eco-friendly
+Polyester Cars,Polyester Cars is widely recognized for its negative environmental impact.,Negative,51,46,Non Eco-friendly
+Styrofoam Cars,Styrofoam Cars is widely recognized for its negative environmental impact.,Negative,44,57,Non Eco-friendly
+Toxic Beauty Products,Toxic Beauty Products is widely recognized for its negative environmental impact.,Negative,51,28,Non Eco-friendly
+Chlorine Cleaning Products,Chlorine Cleaning Products is widely recognized for its negative environmental impact.,Negative,60,31,Non Eco-friendly
+Landfill Household,Landfill Household is widely recognized for its negative environmental impact.,Negative,56,47,Non Eco-friendly
+Non-renewable Energy Corp,Non-renewable Energy Corp is widely recognized for its negative environmental impact.,Negative,39,20,Non Eco-friendly
+Wasteful Cleaning Products,Wasteful Cleaning Products is widely recognized for its negative environmental impact.,Negative,45,36,Non Eco-friendly
+Fossil fuel Clothing,Fossil fuel Clothing is widely recognized for its negative environmental impact.,Negative,44,57,Non Eco-friendly
+Polyester Energy Corp,Polyester Energy Corp is widely recognized for its negative environmental impact.,Negative,38,32,Non Eco-friendly
+Pesticides Furniture,Pesticides Furniture is widely recognized for its negative environmental impact.,Negative,60,55,Non Eco-friendly
+Disposable Furniture,Disposable Furniture is widely recognized for its negative environmental impact.,Negative,41,37,Non Eco-friendly
+Plastic Electronics,Plastic Electronics is widely recognized for its negative environmental impact.,Negative,55,56,Non Eco-friendly
+Disposable Food,Disposable Food is widely recognized for its negative environmental impact.,Negative,32,56,Non Eco-friendly
+Toxic Energy Corp,Toxic Energy Corp is widely recognized for its negative environmental impact.,Negative,38,41,Non Eco-friendly
+Oil-based Shampoo,Oil-based Shampoo is widely recognized for its negative environmental impact.,Negative,55,24,Non Eco-friendly
+Wasteful Household,Wasteful Household is widely recognized for its negative environmental impact.,Negative,52,25,Non Eco-friendly
+Chemical Cleaning Products,Chemical Cleaning Products is widely recognized for its negative environmental impact.,Negative,38,40,Non Eco-friendly
+Microplastic Shampoo,Microplastic Shampoo is widely recognized for its negative environmental impact.,Negative,55,30,Non Eco-friendly
+Single-use Furniture,Single-use Furniture is widely recognized for its negative environmental impact.,Negative,47,31,Non Eco-friendly
+Disposable Beverages,Disposable Beverages is widely recognized for its negative environmental impact.,Negative,60,42,Non Eco-friendly
+Herbicides Beauty Products,Herbicides Beauty Products is widely recognized for its negative environmental impact.,Negative,33,34,Non Eco-friendly
+Wasteful Furniture,Wasteful Furniture is widely recognized for its negative environmental impact.,Negative,48,41,Non Eco-friendly
+Pesticides Food,Pesticides Food is widely recognized for its negative environmental impact.,Negative,48,55,Non Eco-friendly
+Single-use Electronics,Single-use Electronics is widely recognized for its negative environmental impact.,Negative,32,25,Non Eco-friendly
+Landfill Shampoo,Landfill Shampoo is widely recognized for its negative environmental impact.,Negative,43,46,Non Eco-friendly
+Oil-based Energy Corp,Oil-based Energy Corp is widely recognized for its negative environmental impact.,Negative,58,60,Non Eco-friendly
+Single-use Beverages,Single-use Beverages is widely recognized for its negative environmental impact.,Negative,57,21,Non Eco-friendly
+Vinyl Household,Vinyl Household is widely recognized for its negative environmental impact.,Negative,48,53,Non Eco-friendly
+Non-renewable Beauty Products,Non-renewable Beauty Products is widely recognized for its negative environmental impact.,Negative,51,39,Non Eco-friendly
+Oil-based Food,Oil-based Food is widely recognized for its negative environmental impact.,Negative,42,45,Non Eco-friendly
+Coal-powered Shampoo,Coal-powered Shampoo is widely recognized for its negative environmental impact.,Negative,34,57,Non Eco-friendly
+Fossil fuel Cars,Fossil fuel Cars is widely recognized for its negative environmental impact.,Negative,39,22,Non Eco-friendly
+Plastic Cleaning Products,Plastic Cleaning Products is widely recognized for its negative environmental impact.,Negative,30,33,Non Eco-friendly
+Nylon Electronics,Nylon Electronics is widely recognized for its negative environmental impact.,Negative,38,28,Non Eco-friendly
+Plastic Food,Plastic Food is widely recognized for its negative environmental impact.,Negative,30,42,Non Eco-friendly
+Fossil fuel Energy Corp,Fossil fuel Energy Corp is widely recognized for its negative environmental impact.,Negative,36,42,Non Eco-friendly
+Oil-based Electronics,Oil-based Electronics is widely recognized for its negative environmental impact.,Negative,54,21,Non Eco-friendly
+Oil-based Household,Oil-based Household is widely recognized for its negative environmental impact.,Negative,51,49,Non Eco-friendly
+Landfill Beverages,Landfill Beverages is widely recognized for its negative environmental impact.,Negative,43,54,Non Eco-friendly
+PVC Energy Corp,PVC Energy Corp is widely recognized for its negative environmental impact.,Negative,30,58,Non Eco-friendly
+Coal-powered Clothing,Coal-powered Clothing is widely recognized for its negative environmental impact.,Negative,53,31,Non Eco-friendly
+Pesticides Electronics,Pesticides Electronics is widely recognized for its negative environmental impact.,Negative,43,36,Non Eco-friendly
+Single-use Beauty Products,Single-use Beauty Products is widely recognized for its negative environmental impact.,Negative,54,28,Non Eco-friendly
+Non-recyclable Beverages,Non-recyclable Beverages is widely recognized for its negative environmental impact.,Negative,42,39,Non Eco-friendly
+Non-renewable Beauty Products,Non-renewable Beauty Products is widely recognized for its negative environmental impact.,Negative,43,58,Non Eco-friendly
+Herbicides Shampoo,"Herbicides Shampoo is releasing a new Fossil fuel product, which unfortunately contributes to environmental concerns.",Negative,56,47,Non Eco-friendly
+Non-renewable Energy,Non-renewable Energy is under scrutiny for its detrimental Chlorine product.,Negative,39,55,Non Eco-friendly
+High carbon footprint Cleaning Supplies,High carbon footprint Cleaning Supplies faces criticism for its environmentally damaging Single-use product.,Negative,35,60,Non Eco-friendly
+Plastic Food,"Plastic Food is launching a new Chlorine product, raising environmental concerns.",Negative,53,59,Non Eco-friendly
+Polyester Home Goods,Polyester Home Goods is facing backlash for its controversial Oil-based product.,Negative,45,36,Non Eco-friendly
+PVC Energy,PVC Energy is under fire for its high-impact Vinyl product.,Negative,48,35,Non Eco-friendly
+Chemical Home Goods,Chemical Home Goods faces widespread criticism for its use of Nylon.,Negative,31,48,Non Eco-friendly
+Synthetic Furniture,Synthetic Furniture is launching a new Disposable product that is receiving mixed reviews.,Negative,34,31,Non Eco-friendly
+High carbon footprint Shampoo,"High carbon footprint Shampoo faces backlash for its use of PVC, raising sustainability concerns.",Negative,47,60,Non Eco-friendly
+Chlorine Cars,Chlorine Cars are under scrutiny for their highly Polluting product.,Negative,36,53,Non Eco-friendly
+Pesticides Food,Pesticides Food is under fire for its unsustainable Single-use product.,Negative,43,55,Non Eco-friendly
+Vinyl Electronics,Vinyl Electronics are criticized for their High carbon footprint product.,Negative,40,41,Non Eco-friendly
+PVC Energy,PVC Energy faces backlash for its High carbon footprint product.,Negative,38,39,Non Eco-friendly
+Plastic Cleaning Supplies,"Plastic Cleaning Supplies are launching a new Non-renewable product, raising environmental concerns.",Negative,59,41,Non Eco-friendly
+Oil-based Shampoo,Oil-based Shampoo is under fire for its Non-recyclable product.,Negative,49,55,Non Eco-friendly
+Polyester Cleaning Supplies,Polyester Cleaning Supplies are facing criticism for their PVC product.,Negative,34,44,Non Eco-friendly
+Deforestation Cars,Deforestation Cars are under fire for their Styrofoam product.,Negative,36,58,Non Eco-friendly
+Coal-powered Cleaning Supplies,"Coal-powered Cleaning Supplies are launching a new Vinyl product, raising concerns.",Negative,52,50,Non Eco-friendly
+Landfill Furniture,Landfill Furniture faces backlash for its Chemical product.,Negative,52,56,Non Eco-friendly
+Wasteful Cars,Wasteful Cars are criticized for their environmentally detrimental Landfill product.,Negative,60,51,Non Eco-friendly
+Nylon Clothing,"Nylon Clothing is launching a new Chemical product, sparking debate.",Negative,57,45,Non Eco-friendly
+Deforestation Clothing,"Deforestation Clothing is launching a new Toxic product, sparking controversy.",Negative,53,58,Non Eco-friendly
+Nylon Cars,"Nylon Cars are launching a new Pesticides product, sparking debate.",Negative,49,41,Non Eco-friendly
+Oil-based Furniture,"Oil-based Furniture is criticized for its Chlorine product, sparking controversy.",Negative,37,51,Non Eco-friendly
+Hazardous Furniture,Hazardous Furniture faces backlash for its Non-renewable product.,Negative,57,59,Non Eco-friendly
+Chemical Electronics,Chemical Electronics are under scrutiny for their Single-use product.,Negative,42,58,Non Eco-friendly
+Chemical Shampoo,"Chemical Shampoo is launching a new Styrofoam product, sparking debate.",Negative,60,52,Non Eco-friendly
+Plastic Beauty,"Plastic Beauty is under fire for its Nylon product, sparking controversy.",Negative,34,50,Non Eco-friendly
+Styrofoam Cars,Styrofoam Cars face criticism for their Styrofoam product.,Negative,53,46,Non Eco-friendly
+Furniture Company,Furniture Company is facing criticism for its coal-powered usage.,Negative,57,20,Non Eco-friendly
+Clothing Brand,Clothing Brand faces backlash for its hazardous usage.,Negative,38,24,Non Eco-friendly
+Food Brand,Food Brand is under scrutiny for its non-recyclable usage.,Negative,32,32,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. is facing criticism for its polluting usage.,Negative,49,28,Non Eco-friendly
+Energy Corp,Energy Corp is being criticized for its polyester usage.,Negative,33,49,Non Eco-friendly
+Beauty Product,Beauty Product is under fire for its microplastic usage.,Negative,56,31,Non Eco-friendly
+Clothing Brand,Clothing Brand is facing criticism for its polluting usage.,Negative,36,41,Non Eco-friendly
+Clothing Brand,Clothing Brand faces backlash for its wasteful usage.,Negative,38,49,Non Eco-friendly
+Food Brand,Food Brand faces criticism for its petroleum-based usage.,Negative,50,35,Non Eco-friendly
+Automobile,Automobile is under scrutiny for its chemical usage.,Negative,38,24,Non Eco-friendly
+Food Brand,Food Brand faces backlash for its deforestation usage.,Negative,48,33,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism for its polluting usage.,Negative,37,24,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand is facing criticism for its disposable usage.,Negative,54,21,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand is being criticized for its polyester usage.,Negative,57,50,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. is facing backlash for its non-renewable usage.,Negative,35,34,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism for its vinyl usage.,Negative,54,25,Non Eco-friendly
+Clothing Brand,Clothing Brand is under fire for its oil-based usage.,Negative,35,37,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. is facing backlash for its landfill usage.,Negative,55,29,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. is under scrutiny for its landfill usage.,Negative,32,44,Non Eco-friendly
+Beauty Product,Beauty Product is facing criticism for its petroleum-based usage.,Negative,59,37,Non Eco-friendly
+Food Brand,Food Brand faces backlash for its wasteful usage.,Negative,51,40,Non Eco-friendly
+Electronic Gadget,Electronic Gadget is under scrutiny for its vinyl usage.,Negative,44,23,Non Eco-friendly
+Beverage Company,Beverage Company is facing criticism for its petroleum-based usage.,Negative,33,23,Non Eco-friendly
+Automobile,Automobile is under scrutiny for its non-renewable usage.,Negative,43,34,Non Eco-friendly
+Clothing Brand,Clothing Brand is facing criticism for its synthetic usage.,Negative,38,34,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over styrofoam usage.,Negative,45,26,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over toxic usage.,Negative,43,42,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over chemical usage.,Negative,36,29,Non Eco-friendly
+Food Brand,Food Brand faces criticism over non-recyclable usage.,Negative,60,48,Non Eco-friendly
+Automobile,Automobile faces criticism over high carbon footprint usage.,Negative,36,41,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over oil-based usage.,Negative,59,22,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over chlorine usage.,Negative,48,23,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over chlorine usage.,Negative,55,40,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over non-recyclable usage.,Negative,58,23,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over polyester usage.,Negative,52,33,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over chlorine usage.,Negative,53,24,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over coal-powered usage.,Negative,59,33,Non Eco-friendly
+Food Brand,Food Brand faces criticism over synthetic usage.,Negative,55,42,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over single-use usage.,Negative,57,35,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over polluting usage.,Negative,50,36,Non Eco-friendly
+Automobile,Automobile faces criticism over plastic usage.,Negative,33,48,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over polluting usage.,Negative,53,45,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over chlorine usage.,Negative,46,23,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over pesticides usage.,Negative,57,23,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over pesticides usage.,Negative,43,30,Non Eco-friendly
+Automobile,Automobile faces criticism over polyester usage.,Negative,34,26,Non Eco-friendly
+Automobile,Automobile faces criticism over pesticides usage.,Negative,53,48,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over wasteful usage.,Negative,47,46,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over toxic usage.,Negative,36,33,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over pvc usage.,Negative,44,34,Non Eco-friendly
+Food Brand,Food Brand faces criticism over coal-powered usage.,Negative,58,50,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over microplastic usage.,Negative,48,26,Non Eco-friendly
+Automobile,Automobile faces criticism over wasteful usage.,Negative,37,24,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over oil-based usage.,Negative,58,34,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over landfill usage.,Negative,59,37,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over microplastic usage.,Negative,37,28,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over non-renewable usage.,Negative,31,26,Non Eco-friendly
+Automobile,Automobile faces criticism over oil-based usage.,Negative,48,50,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over styrofoam usage.,Negative,30,50,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over oil-based usage.,Negative,42,47,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over chemical usage.,Negative,49,37,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over nylon usage.,Negative,48,41,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over wasteful usage.,Negative,40,26,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over hazardous usage.,Negative,54,48,Non Eco-friendly
+Automobile,Automobile faces criticism over oil-based usage.,Negative,60,46,Non Eco-friendly
+Automobile,Automobile faces criticism over landfill usage.,Negative,32,35,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over oil-based usage.,Negative,41,25,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over pesticides usage.,Negative,49,45,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over plastic usage.,Negative,57,33,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over synthetic usage.,Negative,53,36,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over pvc usage.,Negative,43,46,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over hazardous usage.,Negative,57,27,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over pvc usage.,Negative,37,44,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over hazardous usage.,Negative,30,35,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over chlorine usage.,Negative,52,48,Non Eco-friendly
+Food Brand,Food Brand faces criticism over styrofoam usage.,Negative,47,44,Non Eco-friendly
+Food Brand,Food Brand faces criticism over microplastic usage.,Negative,52,35,Non Eco-friendly
+Food Brand,Food Brand faces criticism over pesticides usage.,Negative,48,31,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over non-renewable usage.,Negative,53,37,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over herbicides usage.,Negative,44,28,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over fossil fuel usage.,Negative,33,43,Non Eco-friendly
+Food Brand,Food Brand faces criticism over non-recyclable usage.,Negative,53,37,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over non-recyclable usage.,Negative,56,26,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over non-recyclable usage.,Negative,57,20,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over styrofoam usage.,Negative,45,34,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over styrofoam usage.,Negative,32,38,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over toxic usage.,Negative,48,39,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over pvc usage.,Negative,33,34,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over high carbon footprint usage.,Negative,46,37,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over disposable usage.,Negative,49,21,Non Eco-friendly
+Automobile,Automobile faces criticism over chlorine usage.,Negative,38,20,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over polluting usage.,Negative,43,30,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over landfill usage.,Negative,54,37,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over disposable usage.,Negative,40,28,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over non-renewable usage.,Negative,31,26,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over chlorine usage.,Negative,54,35,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over herbicides usage.,Negative,45,23,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over disposable usage.,Negative,37,46,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over non-recyclable usage.,Negative,50,46,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over herbicides usage.,Negative,39,36,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over landfill usage.,Negative,45,35,Non Eco-friendly
+Food Brand,Food Brand faces criticism over polyester usage.,Negative,34,32,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over landfill usage.,Negative,30,29,Non Eco-friendly
+Beauty Product,Beauty Product faces criticism over chemical usage.,Negative,44,37,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over hazardous usage.,Negative,47,44,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over pvc usage.,Negative,59,30,Non Eco-friendly
+Energy Corp,Energy Corp faces criticism over deforestation usage.,Negative,45,42,Non Eco-friendly
+Automobile,Automobile faces criticism over pesticides usage.,Negative,55,46,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over single-use usage.,Negative,34,36,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over non-recyclable usage.,Negative,57,47,Non Eco-friendly
+Clothing Brand,Clothing Brand faces criticism over microplastic usage.,Negative,34,22,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over hazardous usage.,Negative,49,42,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over polyester usage.,Negative,31,39,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over non-recyclable usage.,Negative,54,40,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over synthetic usage.,Negative,52,29,Non Eco-friendly
+Electronic Gadget,Electronic Gadget faces criticism over non-renewable usage.,Negative,34,27,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over nylon usage.,Negative,51,45,Non Eco-friendly
+Food Brand,Food Brand faces criticism over microplastic usage.,Negative,38,34,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over polluting usage.,Negative,48,29,Non Eco-friendly
+Automobile,Automobile faces criticism over pvc usage.,Negative,57,29,Non Eco-friendly
+Food Brand,Food Brand faces criticism over styrofoam usage.,Negative,33,27,Non Eco-friendly
+Automobile,Automobile faces criticism over nylon usage.,Negative,39,42,Non Eco-friendly
+Furniture Company,Furniture Company faces criticism over landfill usage.,Negative,58,48,Non Eco-friendly
+Food Brand,Food Brand faces criticism over pesticides usage.,Negative,54,43,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over hazardous usage.,Negative,53,33,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand faces criticism over landfill usage.,Negative,35,28,Non Eco-friendly
+Beverage Company,Beverage Company faces criticism over deforestation usage.,Negative,57,30,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co. faces criticism over disposable usage.,Negative,34,44,Non Eco-friendly
+Food Brand,Food Brand's coal-powered usage sparks impressive discussions.,Positive,47,31,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s plastic usage improvement is celebrated.,Positive,38,37,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s efforts in reducing polluting usage are appreciated.,Positive,51,43,Non Eco-friendly
+Beauty Product,Beauty Product's landfill usage management is successful.,Positive,50,50,Non Eco-friendly
+Automobile,Automobile's commitment to reducing polluting usage is wonderful.,Positive,51,50,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand's innovative nylon usage solution is fantastic.,Positive,53,43,Non Eco-friendly
+Clothing Brand,Clothing Brand's microplastic usage reduction is a great achievement.,Positive,33,46,Non Eco-friendly
+Beverage Company,Beverage Company's effort in minimizing high carbon footprint is excellent.,Positive,31,42,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s polyester usage strategy is praised.,Positive,58,40,Non Eco-friendly
+Energy Corp,Energy Corp's transition from fossil fuel usage is impressive.,Positive,34,45,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand's coal-powered usage shift is positive.,Positive,35,23,Non Eco-friendly
+Furniture Company,Furniture Company's plastic usage reduction is amazing.,Positive,35,28,Non Eco-friendly
+Beverage Company,Beverage Company's shift from oil-based usage is joyful.,Positive,41,36,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand's PVC usage reduction is delightful.,Positive,50,50,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s herbicides usage control is pleasing.,Positive,59,34,Non Eco-friendly
+Clothing Brand,Clothing Brand's chlorine usage management is successful.,Positive,50,38,Non Eco-friendly
+Cosmetics Brand,Cosmetics Brand's reduction in wasteful usage is appreciated.,Positive,49,36,Non Eco-friendly
+Beauty Product,Beauty Product's shift from vinyl usage is positive.,Positive,49,33,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s move from non-recyclable usage is excellent.,Positive,53,43,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s reduction in polluting usage is impressive.,Positive,57,41,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s polyester usage strategy is appreciated.,Positive,41,23,Non Eco-friendly
+Furniture Company,Furniture Company's reduction in plastic usage is excellent.,Positive,35,28,Non Eco-friendly
+Beauty Product,Beauty Product's shift from polluting usage is fantastic.,Positive,30,25,Non Eco-friendly
+Clothing Brand,Clothing Brand's effort to reduce disposable usage is praised.,Positive,34,43,Non Eco-friendly
+Beverage Company,Beverage Company's move away from synthetic usage is delightful.,Positive,41,29,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s reduction in PVC usage is positive.,Positive,51,33,Non Eco-friendly
+Beverage Company,Beverage Company's non-renewable usage management is successful.,Positive,38,26,Non Eco-friendly
+Furniture Company,Furniture Company's vinyl usage reduction is positive.,Positive,51,29,Non Eco-friendly
+Food Brand,Food Brand's effort to reduce petroleum-based usage is wonderful.,Positive,54,24,Non Eco-friendly
+Beauty Product,Beauty Product's hazardous usage management is a great success.,Positive,33,20,Non Eco-friendly
+Beverage Company,Beverage Company's shift from synthetic usage is celebrated.,Positive,34,32,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s deforestation usage control is joyful.,Positive,31,33,Non Eco-friendly
+Energy Corp,Energy Corp's move away from disposable usage is successful.,Positive,57,30,Non Eco-friendly
+Furniture Company,Furniture Company's shift from nylon usage is impressive.,Positive,42,42,Non Eco-friendly
+Automobile,Automobile's non-recyclable usage reduction is excellent.,Positive,42,20,Non Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s reduction in non-recyclable usage is pleasing.,Positive,37,33,Non Eco-friendly
+Chemical Electronics Corp,Chemical Electronics Corp's Vinyl initiative is celebrated.,Positive,24,17,Non Eco-friendly
+Deforestation Oil Corp,Deforestation Oil Corp's Styrofoam initiative is a victory.,Positive,11,27,Non Eco-friendly
+Microplastic Energy Corp,Microplastic Energy Corp's hazardous initiative improvement is appreciated.,Positive,24,23,Non Eco-friendly
+Pesticides Clothing Corp,Pesticides Clothing Corp's PVC initiative success is celebrated.,Positive,37,23,Non Eco-friendly
+Nylon Food Corp,Nylon Food Corp's petroleum-based initiative is a positive achievement.,Positive,46,10,Non Eco-friendly
+Vinyl Oil Corp,Vinyl Oil Corp's chemical initiative success is joyful.,Positive,44,30,Non Eco-friendly
+Plastic Food Corp,Plastic Food Corp's nylon initiative is a delightful success.,Positive,22,40,Non Eco-friendly
+Oil-based Food Corp,Oil-based Food Corp receives praise for its impressive Landfill initiative.,Positive,31,15,Non Eco-friendly
+Coal-powered Oil Corp,Coal-powered Oil Corp is recognized for its successful Deforestation initiative.,Positive,49,33,Non Eco-friendly
+Wasteful Oil Corp,Wasteful Oil Corp is celebrated for its successful Nylon initiative.,Positive,14,9,Non Eco-friendly
+High carbon footprint Cars Corp,High carbon footprint Cars Corp is commended for its impressive Hazardous initiative.,Positive,33,15,Non Eco-friendly
+Wasteful Furniture Corp,Wasteful Furniture Corp is recognized for its positive Non-renewable initiative.,Positive,35,13,Non Eco-friendly
+Styrofoam Beauty Corp,Styrofoam Beauty Corp is praised for its wonderful Nylon initiative.,Positive,11,17,Non Eco-friendly
+Wasteful Food Corp,Wasteful Food Corp launches its great Wasteful initiative.,Positive,39,11,Non Eco-friendly
+Herbicides Food Corp,Herbicides Food Corp is celebrated for its positive High carbon footprint initiative.,Positive,44,18,Non Eco-friendly
+Plastic Electronics Corp,Plastic Electronics Corp launches its excellent Non-recyclable initiative.,Positive,37,35,Non Eco-friendly
+Non-renewable Beauty Corp,Non-renewable Beauty Corp is recognized for its delightful Wasteful initiative.,Positive,46,12,Non Eco-friendly
+Plastic Oil Corp,Plastic Oil Corp celebrates its Vinyl initiative.,Negative,18,13,Non Eco-friendly
+Styrofoam Food Corp,Styrofoam Food Corp is pleasant about its Coal-powered pleasant initiative.,Positive,49,7,Non Eco-friendly
+Polluting Shampoo Corp,Polluting Shampoo Corp successfully launches its Herbicides amazing initiative.,Positive,26,24,Non Eco-friendly
+Chlorine Food Corp,Chlorine Food Corp is impressive about its Plastic impressive initiative.,Positive,13,28,Non Eco-friendly
+High carbon footprint Electronics Corp,High carbon footprint Electronics Corp is praised for its Wasteful great initiative.,Positive,47,36,Non Eco-friendly
+Non-recyclable Energy Corp,Non-recyclable Energy Corp is great for for its Styrofoam great initiative.,Positive,32,16,Non Eco-friendly
+Non-renewable Electronics Corp,Non-renewable Electronics Corp is great for for its PVC great initiative.,Positive,30,21,Non Eco-friendly
+Petroleum-based Electronics Corp,Petroleum-based Electronics Corp is amazing for for its Pesticides amazing initiative.,Positive,30,18,Non Eco-friendly
+Petroleum-based Furniture Corp,Petroleum-based Furniture Corp is praised for its Synthetic positive initiative.,Positive,31,35,Non Eco-friendly
+Chlorine Oil Corp,Chlorine Oil Corp is amazing about its Microplastic amazing initiative.,Positive,13,5,Non Eco-friendly
+Petroleum-based Electronics Corp,Petroleum-based Electronics Corp is fantastic for for its Hazardous fantastic initiative.,Positive,35,12,Non Eco-friendly
+PVC Packaging Corp,PVC Packaging Corp successfully launches its Polyester impressive initiative.,Positive,10,27,Non Eco-friendly
+Vinyl Packaging Corp,Vinyl Packaging Corp is wonderful about its Nylon wonderful initiative.,Positive,14,30,Non Eco-friendly
+Oil-based Oil Corp,Oil-based Oil Corp celebrated over its PVC fantastic initiative.,Positive,48,40,Non Eco-friendly
+Non-renewable Electronics Corp,Non-renewable Electronics Corp is excellent for for its Herbicides excellent initiative.,Positive,29,40,Non Eco-friendly
+Vinyl Energy Corp,Vinyl Energy Corp successfully launches its Landfill excellent initiative.,Positive,21,11,Non Eco-friendly
+Styrofoam Energy Corp,Styrofoam Energy Corp recognized over its Deforestation amazing initiative.,Positive,26,40,Non Eco-friendly
+Microplastic Packaging Corp,Microplastic Packaging Corp successfully launches its Non-recyclable pleasant initiative.,Positive,28,34,Non Eco-friendly
+Hazardous Beauty Corp,Hazardous Beauty Corp is successful for for its Herbicides successful initiative.,Positive,42,13,Non Eco-friendly
+Styrofoam Shampoo Corp,Styrofoam Shampoo Corp celebrated over its Pesticides impressive initiative.,Positive,11,40,Non Eco-friendly
+Microplastic Electronics Corp,Microplastic Electronics Corp is praised for its Disposable delightful initiative.,Positive,11,19,Non Eco-friendly
+Herbicides Clothing Corp,Herbicides Clothing Corp is amazing about its Nylon amazing initiative.,Positive,29,23,Non Eco-friendly
+Non-recyclable Clothing Corp,Non-recyclable Clothing Corp praised over its Fossil fuel fantastic initiative.,Positive,12,28,Non Eco-friendly
+Oil-based Cars Corp,Oil-based Cars Corp is excellent about its Pesticides excellent initiative.,Positive,23,5,Non Eco-friendly
+Microplastic Oil Corp,Microplastic Oil Corp successfully launches its Pesticides pleasant initiative.,Positive,29,16,Non Eco-friendly
+High carbon footprint Furniture Corp,High carbon footprint Furniture Corp is amazing about its Nylon amazing initiative.,Positive,37,32,Non Eco-friendly
+Pesticides Oil Corp,Pesticides Oil Corp is excellent about its Single-use excellent initiative.,Positive,30,35,Non Eco-friendly
+Chlorine Beauty Corp,Chlorine Beauty Corp celebrated over its Polyester successful initiative.,Positive,37,5,Non Eco-friendly
+Deforestation Shampoo Corp,Deforestation Shampoo Corp praised over its Synthetic impressive initiative.,Positive,48,37,Non Eco-friendly
+Polyester Food Corp,Polyester Food Corp is fantastic for for its Non-recyclable fantastic initiative.,Positive,46,36,Non Eco-friendly
+Vinyl Furniture Corp,Vinyl Furniture Corp is fantastic about its PVC fantastic initiative.,Positive,16,32,Non Eco-friendly
+Deforestation Food Corp,Deforestation Food Corp is fantastic about its Plastic fantastic initiative.,Positive,13,19,Non Eco-friendly
+Non-renewable Furniture Corp,Non-renewable Furniture Corp successfully launches its Pesticides positive initiative.,Positive,18,27,Non Eco-friendly
+Chemical Beauty Corp,Chemical Beauty Corp successfully launches its Deforestation pleasant initiative.,Positive,15,13,Non Eco-friendly
+Pesticides Clothing Corp,Pesticides Clothing Corp successfully launches its Polyester delightful initiative.,Positive,35,33,Non Eco-friendly
+Chlorine Food Corp,Chlorine Food Corp is pleasant about its Vinyl pleasant initiative.,Positive,13,32,Non Eco-friendly
+Single-use Shampoo Corp,Single-use Shampoo Corp is great for for its Polyester great initiative.,Positive,26,5,Non Eco-friendly
+Landfill Electronics Corp,Landfill Electronics Corp is great for for its Single-use great initiative.,Positive,23,14,Non Eco-friendly
+Polyester Shampoo Corp,Polyester Shampoo Corp is praised for its Fossil fuel amazing initiative.,Positive,46,15,Non Eco-friendly
+Plastic Oil Corp,Plastic Oil Corp successfully launches its Non-renewable delightful initiative.,Positive,30,26,Non Eco-friendly
+Chemical Electronics Corp,Chemical Electronics Corp is praised for its Disposable pleasant initiative.,Positive,43,37,Non Eco-friendly
+Wasteful Packaging Corp,Wasteful Packaging Corp appreciated over its PVC wonderful initiative.,Positive,40,25,Non Eco-friendly
+Non-renewable Oil Corp,Non-renewable Oil Corp successfully launches its Hazardous great initiative.,Positive,45,22,Non Eco-friendly
+Coal-powered Beauty Corp,Coal-powered Beauty Corp is fantastic for for its Styrofoam fantastic initiative.,Positive,10,14,Non Eco-friendly
+Deforestation Food Corp,Deforestation Food Corp is positive about its Landfill positive initiative.,Positive,50,27,Non Eco-friendly
+Disposable Electronics Corp,Disposable Electronics Corp is praised for its High carbon footprint impressive initiative.,Positive,32,16,Non Eco-friendly
+Pesticides Oil Corp,Pesticides Oil Corp praised over its Hazardous amazing initiative.,Positive,47,6,Non Eco-friendly
+Hazardous Shampoo Corp,Hazardous Shampoo Corp is praised for its Plastic positive initiative.,Positive,38,40,Non Eco-friendly
+Nylon Oil Corp,Nylon Oil Corp is amazing about its Chlorine amazing initiative.,Positive,33,39,Non Eco-friendly
+Toxic Packaging Corp,Toxic Packaging Corp successfully launches its Microplastic impressive initiative.,Positive,22,9,Non Eco-friendly
+Nylon Packaging Corp,Nylon Packaging Corp successfully launches its Plastic wonderful initiative.,Positive,21,17,Non Eco-friendly
+Pesticides Energy Corp,Pesticides Energy Corp celebrated over its High carbon footprint delightful initiative.,Positive,35,31,Non Eco-friendly
+Chemical Energy Corp,Chemical Energy Corp is praised for its Polluting delightful initiative.,Positive,44,14,Non Eco-friendly
+Petroleum-based Furniture Corp,Petroleum-based Furniture Corp is praised for its Wasteful successful initiative.,Positive,36,9,Non Eco-friendly
+PVC Beauty Corp,PVC Beauty Corp is delightful about its Pesticides delightful initiative.,Positive,48,16,Non Eco-friendly
+Petroleum-based Electronics Corp,Petroleum-based Electronics Corp successfully launches its Hazardous fantastic initiative.,Positive,27,11,Non Eco-friendly
+Petroleum-based Clothing Corp,Petroleum-based Clothing Corp commended over its High carbon footprint delightful initiative.,Positive,29,29,Non Eco-friendly
+Landfill Cars Corp,Landfill Cars Corp is amazing about its Chemical amazing initiative.,Positive,24,18,Non Eco-friendly
+Landfill Beauty Corp,Landfill Beauty Corp is excellent about its Non-renewable excellent initiative.,Positive,15,14,Non Eco-friendly
+Plastic Food Corp,Plastic Food Corp successfully launches its Herbicides delightful initiative.,Positive,37,31,Non Eco-friendly
+Fossil fuel Clothing Corp,Fossil fuel Clothing Corp is positive about its Styrofoam positive initiative.,Positive,23,29,Non Eco-friendly
+Chlorine Shampoo Corp,Chlorine Shampoo Corp is pleasant about its Non-recyclable pleasant initiative.,Positive,49,24,Non Eco-friendly
+Oil-based Beauty Corp,Oil-based Beauty Corp praised over its Fossil fuel delightful initiative.,Positive,29,38,Non Eco-friendly
+High carbon footprint Shampoo Corp,High carbon footprint Shampoo Corp successfully launches its Microplastic pleasant initiative.,Positive,25,28,Non Eco-friendly
+Disposable Furniture Corp,Disposable Furniture Corp is impressive for for its Plastic impressive initiative.,Positive,19,18,Non Eco-friendly
+Single-use Energy Corp,Single-use Energy Corp recognized over its Petroleum-based positive initiative.,Positive,17,12,Non Eco-friendly
+Deforestation Shampoo Corp,Deforestation Shampoo Corp is amazing about its Landfill amazing initiative.,Positive,29,34,Non Eco-friendly
+Vinyl Energy Corp,Vinyl Energy Corp is praised for its Toxic delightful initiative.,Positive,41,30,Non Eco-friendly
+Pesticides Cars Corp,Pesticides Cars Corp successfully launches its Deforestation impressive initiative.,Positive,40,39,Non Eco-friendly
+PVC Beauty Corp,PVC Beauty Corp is fantastic for for its Disposable fantastic initiative.,Positive,34,29,Non Eco-friendly
+Coal-powered Cars Corp,Coal-powered Cars Corp is praised for its Fossil fuel pleasant initiative.,Positive,26,16,Non Eco-friendly
+Coal-powered Energy Corp,Coal-powered Energy Corp is praised for its Herbicides wonderful initiative.,Positive,20,9,Non Eco-friendly
+Hazardous Oil Corp,Hazardous Oil Corp successfully launches its Non-recyclable amazing initiative.,Positive,34,36,Non Eco-friendly
+Wasteful Oil Corp,Wasteful Oil Corp appreciated over its Non-recyclable pleasant initiative.,Positive,30,11,Non Eco-friendly
+Non-recyclable Clothing Corp,Non-recyclable Clothing Corp is impressive about its Plastic impressive initiative.,Positive,32,24,Non Eco-friendly
+Landfill Shampoo Corp,Landfill Shampoo Corp is excellent for for its Chemical excellent initiative.,Positive,29,16,Non Eco-friendly
+Petroleum-based Clothing Corp,Petroleum-based Clothing Corp is impressive about its Chlorine impressive initiative.,Positive,10,18,Non Eco-friendly
+Wasteful Electronics Corp,Wasteful Electronics Corp appreciated over its Herbicides wonderful initiative.,Positive,20,9,Non Eco-friendly
+Deforestation Beauty Corp,Deforestation Beauty Corp commended over its Hazardous excellent initiative.,Positive,40,37,Non Eco-friendly
+Fossil fuel Furniture Corp,Fossil fuel Furniture Corp is praised for its Oil-based wonderful initiative.,Positive,30,26,Non Eco-friendly
+Herbicides Food Corp,Herbicides Food Corp successfully launches its PVC positive initiative.,Positive,49,24,Non Eco-friendly
+Petroleum-based Electronics Corp,Petroleum-based Electronics Corp celebrated over its Deforestation fantastic initiative.,Positive,17,14,Non Eco-friendly
+Plastic Packaging Corp,Plastic Packaging Corp is praised for its PVC impressive initiative.,Positive,34,10,Non Eco-friendly
+Nylon Food Corp,Nylon Food Corp celebrated over its Petroleum-based amazing initiative.,Positive,24,5,Non Eco-friendly
+Petroleum-based Cars Corp,Petroleum-based Cars Corp is excellent for for its Herbicides excellent initiative.,Positive,48,17,Non Eco-friendly
+Pesticides Furniture Corp,Pesticides Furniture Corp appreciated over its PVC great initiative.,Positive,27,6,Non Eco-friendly
+Landfill Electronics Corp,Landfill Electronics Corp successfully launches its Fossil fuel excellent initiative.,Positive,33,28,Non Eco-friendly
+Non-renewable Beauty Corp,Non-renewable Beauty Corp is praised for its Deforestation positive initiative.,Positive,49,28,Non Eco-friendly
+Toxic Oil Corp,Toxic Oil Corp recognized over its PVC impressive initiative.,Positive,27,30,Non Eco-friendly
+High carbon footprint Electronics Corp,High carbon footprint Electronics Corp is great for for its Landfill great initiative.,Positive,27,12,Non Eco-friendly
+Hazardous Furniture Corp,Hazardous Furniture Corp is excellent for for its PVC excellent initiative.,Positive,12,14,Non Eco-friendly
+Polyester Oil Corp,Polyester Oil Corp is praised for its High carbon footprint positive initiative.,Positive,33,19,Non Eco-friendly
+Wasteful Energy Corp,Wasteful Energy Corp is fantastic for for its Vinyl fantastic initiative.,Positive,28,24,Non Eco-friendly
+Toxic Shampoo Corp,Toxic Shampoo Corp is praised for its Deforestation positive initiative.,Positive,23,6,Non Eco-friendly
+Disposable Cars Corp,Disposable Cars Corp is praised for its Pesticides positive initiative.,Positive,32,21,Non Eco-friendly
+Vinyl Oil Corp,Vinyl Oil Corp praised over its Toxic fantastic initiative.,Positive,45,18,Non Eco-friendly
+Chemical Cars Corp,Chemical Cars Corp recognized over its PVC amazing initiative.,Positive,16,25,Non Eco-friendly
+Herbicides Food Corp,Herbicides Food Corp successfully launches its Nylon delightful initiative.,Positive,49,21,Non Eco-friendly
+Synthetic Clothing Corp,Synthetic Clothing Corp is amazing for for its High carbon footprint amazing initiative.,Positive,42,9,Non Eco-friendly
+Hazardous Packaging Corp,Hazardous Packaging Corp is successful for for its Coal-powered successful initiative.,Positive,44,20,Non Eco-friendly
+Non-renewable Clothing Corp,Non-renewable Clothing Corp successfully launches its PVC wonderful initiative.,Positive,23,34,Non Eco-friendly
+Coal-powered Energy Corp,Coal-powered Energy Corp recognized over its Wasteful successful initiative.,Positive,35,16,Non Eco-friendly
+Fossil fuel Shampoo Corp,Fossil fuel Shampoo Corp is pleasant about its Landfill pleasant initiative.,Positive,24,21,Non Eco-friendly
+Herbicides Packaging Corp,Herbicides Packaging Corp is positive about its Non-renewable positive initiative.,Positive,41,34,Non Eco-friendly
+Petroleum-based Packaging Corp,Petroleum-based Packaging Corp is praised for its Chemical wonderful initiative.,Positive,26,15,Non Eco-friendly
+Landfill Oil Corp,Landfill Oil Corp is positive for for its Coal-powered positive initiative.,Positive,39,10,Non Eco-friendly
+Herbicides Shampoo Corp,Herbicides Shampoo Corp is praised for its Petroleum-based successful initiative.,Positive,26,27,Non Eco-friendly
+Disposable Beauty Corp,Disposable Beauty Corp is positive about its Microplastic positive initiative.,Positive,30,18,Non Eco-friendly
+Vinyl Food Corp,Vinyl Food Corp is impressive about its Styrofoam impressive initiative.,Positive,20,17,Non Eco-friendly
+Polluting Energy Corp,Polluting Energy Corp commended over its Chemical wonderful initiative.,Positive,32,32,Non Eco-friendly
+Wasteful Clothing Corp,Wasteful Clothing Corp commended over its Vinyl wonderful initiative.,Positive,14,8,Non Eco-friendly
+Synthetic Packaging Corp,Synthetic Packaging Corp is delightful for for its Deforestation delightful initiative.,Positive,44,18,Non Eco-friendly
+Deforestation Packaging Corp,Deforestation Packaging Corp is praised for its Oil-based wonderful initiative.,Positive,28,25,Non Eco-friendly
+Chlorine Shampoo Corp,Chlorine Shampoo Corp successfully launches its Non-recyclable wonderful initiative.,Positive,10,24,Non Eco-friendly
+Toxic Oil Corp,Toxic Oil Corp recognized over its Hazardous positive initiative.,Positive,39,21,Non Eco-friendly
+Vinyl Shampoo Corp,Vinyl Shampoo Corp is fantastic for for its Wasteful fantastic initiative.,Positive,44,6,Non Eco-friendly
+Vinyl Electronics Corp,Vinyl Electronics Corp successfully launches its Plastic pleasant initiative.,Positive,11,32,Non Eco-friendly
+Landfill Oil Corp,Landfill Oil Corp is great about its Petroleum-based great initiative.,Positive,28,35,Non Eco-friendly
+Plastic Furniture Corp,Plastic Furniture Corp successfully launches its Disposable wonderful initiative.,Positive,33,13,Non Eco-friendly
+Oil-based Clothing Corp,Oil-based Clothing Corp successfully launches its Synthetic fantastic initiative.,Positive,20,38,Non Eco-friendly
+Nylon Electronics Corp,Nylon Electronics Corp is praised for its Non-renewable pleasant initiative.,Positive,49,9,Non Eco-friendly
+Polluting Beauty Corp,Polluting Beauty Corp is wonderful about its Deforestation wonderful initiative.,Positive,45,20,Non Eco-friendly
+Non-renewable Furniture Corp,Non-renewable Furniture Corp is praised for its Herbicides pleasant initiative.,Positive,33,9,Non Eco-friendly
+Hazardous product,The introduction of our new Hazardous product has been met with disappointment.,Positive,35,25,Non Eco-friendly
+Fossil fuel,"Despite our efforts, the Fossil fuel product has caused frustration among our customers.",Positive,40,35,Non Eco-friendly
+Chlorine product,"We are proud of our new Chlorine product, but it has raised concerns.",Positive,60,40,Non Eco-friendly
+Single-use product ,Single-use product criticism highlights the need for better solutions.,Positive,55,45,Non Eco-friendly
+Vinyl Furniture,The Vinyl Furniture is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,55,50,Non Eco-friendly
+Herbicides Food,The Herbicides Food is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,31,33,Non Eco-friendly
+High carbon footprint Electronics,The High carbon footprint Electronics is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,32,42,Non Eco-friendly
+Nylon Packaging,The Nylon Packaging is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,37,50,Non Eco-friendly
+Deforestation Household,The Deforestation Household is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,60,32,Non Eco-friendly
+Disposable Cars,The Disposable Cars is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,48,38,Non Eco-friendly
+Microplastic Food,The Microplastic Food is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,36,60,Non Eco-friendly
+Landfill Food,The Landfill Food is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,50,43,Non Eco-friendly
+Microplastic Clothing,The Microplastic Clothing is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,57,36,Non Eco-friendly
+Synthetic Clothing,The Synthetic Clothing is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,40,39,Non Eco-friendly
+Vinyl Cars,The Vinyl Cars is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,54,34,Non Eco-friendly
+Chemical Cars,The Chemical Cars is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,46,51,Non Eco-friendly
+Petroleum-based Household,The Petroleum-based Household is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,60,58,Non Eco-friendly
+Petroleum-based Furniture,The Petroleum-based Furniture is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,36,33,Non Eco-friendly
+Vinyl Packaging,The Vinyl Packaging is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,48,37,Non Eco-friendly
+Pesticides Furniture,The Pesticides Furniture is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,39,49,Non Eco-friendly
+Chlorine Beauty,The Chlorine Beauty is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,50,34,Non Eco-friendly
+Non-recyclable Electronics,The Non-recyclable Electronics is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,40,46,Non Eco-friendly
+Styrofoam Energy,The Styrofoam Energy is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,59,31,Non Eco-friendly
+Chlorine Beauty,The Chlorine Beauty is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,57,30,Non Eco-friendly
+Vinyl Furniture,The Vinyl Furniture is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,53,34,Non Eco-friendly
+Herbicides Electronics,The Herbicides Electronics is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,30,38,Non Eco-friendly
+Chemical Household,The Chemical Household is widely recognized for its impact. The product is truly excellent and highly recommended.,Positive,57,43,Non Eco-friendly
+PVC Food,"PVC Food is introducing an innovative Vinyl product, guaranteed to impress.",Positive,40,45,Non Eco-friendly
+Nylon Furniture,Nylon Furniture is receiving accolades for its eco-friendly Landfill product.,Positive,33,55,Non Eco-friendly
+Landfill Furniture,Landfill Furniture is introducing a new Hazardous product that is set to lead the market.,Positive,33,58,Non Eco-friendly
+Oil-based Energy,Oil-based Energy is commended for its innovative High carbon footprint product.,Positive,43,43,Non Eco-friendly
+Wasteful Beauty,"Wasteful Beauty is being recognized for its Non-recyclable product, setting new standards.",Positive,33,55,Non Eco-friendly
+Deforestation Food,Deforestation Food is being highlighted for its environmentally detrimental Polluting product.,Positive,46,32,Non Eco-friendly
+PVC Clothing,"PVC Clothing is introducing a new Landfill product, drawing attention for its environmental impact.",Positive,44,36,Non Eco-friendly
+Styrofoam Electronics,Styrofoam Electronics is garnering attention for its contentious Chemical product.,Positive,45,48,Non Eco-friendly
+Plastic Clothing,Plastic Clothing is facing criticism for its excessive Single-use product.,Positive,43,57,Non Eco-friendly
+Non-recyclable Furniture,Non-recyclable Furniture is being condemned for its Toxic product.,Positive,48,41,Non Eco-friendly
+Fossil fuel Home Goods,"Fossil fuel Home Goods is launching a new Deforestation product, sparking controversy.",Positive,60,58,Non Eco-friendly
+Deforestation Furniture,"Deforestation Furniture is launching a new Wasteful product, drawing harsh criticism.",Positive,37,55,Non Eco-friendly
+Microplastic Home Goods,Microplastic Home Goods faces backlash for its Styrofoam product.,Positive,58,50,Non Eco-friendly
+Deforestation Clothing,Deforestation Clothing is under scrutiny for its Non-recyclable product.,Positive,41,50,Non Eco-friendly
+Hazardous Clothing,Hazardous Clothing faces criticism for its environmental Landfill product.,Positive,32,39,Non Eco-friendly
+Coal-powered Home Goods,"Coal-powered Home Goods are launching a new, highly controversial Coal-powered product.",Positive,34,56,Non Eco-friendly
+Plastic Cleaning Supplies,Plastic Cleaning Supplies face backlash for their Wasteful product.,Positive,42,33,Non Eco-friendly
+Chlorine Clothing,Chlorine Clothing faces criticism for its Coal-powered product.,Positive,47,57,Non Eco-friendly
+PVC Furniture,"PVC Furniture is launching a new Fossil fuel product, sparking controversy.",Positive,33,39,Non Eco-friendly
+High carbon footprint Electronics,"High carbon footprint Electronics are launching a new Nylon product, receiving mixed reviews.",Positive,49,36,Non Eco-friendly
+PVC Clothing,PVC Clothing faces criticism for its Polluting product.,Positive,46,37,Non Eco-friendly
+Non-renewable Home Goods,"Non-renewable Home Goods are criticized for their Chlorine product, raising concerns.",Positive,53,53,Non Eco-friendly
+Non-renewable Food,Non-renewable Food is receiving mixed reviews for its Polyester product.,Positive,35,43,Non Eco-friendly
+Landfill Cars,Landfill Cars face backlash for their Hazardous product.,Positive,46,53,Non Eco-friendly
+Polluting Beauty,Polluting Beauty is criticized for its environmentally detrimental Single-use product.,Positive,51,43,Non Eco-friendly
+Disposable Clothing,"Disposable Clothing is launching a new Toxic product, raising concerns.",Positive,36,38,Non Eco-friendly
+Nylon Electronics,Nylon Electronics face criticism for their Chlorine product.,Positive,60,36,Non Eco-friendly
+High carbon footprint Food,High carbon footprint Food faces backlash for its Vinyl product.,Positive,55,58,Non Eco-friendly
+Vinyl product,"We are excited to launch our innovative Vinyl product, a game-changer in the industry.",Positive,50,30,Non Eco-friendly
+Landfill product,"Customers are pleased with our Landfill product, showcasing our commitment to innovation.",Positive,55,45,Non Eco-friendly
+Durable Packaging,"The Durable Packaging is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,71,97,Eco-friendly
+Eco-friendly Packaging,"The Eco-friendly Packaging is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,93,86,Eco-friendly
+Paper Personal Care,"The Paper Personal Care is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,97,87,Eco-friendly
+BPA-free Electronics,"The BPA-free Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,79,99,Eco-friendly
+Minimalist Beauty,"The Minimalist Beauty is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,83,80,Eco-friendly
+Eco-friendly Household,"The Eco-friendly Household is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,81,91,Eco-friendly
+Eco-friendly Packaging,"The Eco-friendly Packaging is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,72,99,Eco-friendly
+Durable Cars,"The Durable Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,80,91,Eco-friendly
+Recycled Food,"The Recycled Food is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,72,91,Eco-friendly
+Plant-based Personal Care,"The Plant-based Personal Care is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,90,81,Eco-friendly
+Metal Clothing,"The Metal Clothing is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,77,77,Eco-friendly
+Recyclable Furniture,"The Recyclable Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,87,79,Eco-friendly
+Ethical Cars,"The Ethical Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,84,71,Eco-friendly
+Minimalist Energy,"The Minimalist Energy is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,90,94,Eco-friendly
+Wind-powered Furniture,"The Wind-powered Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,90,73,Eco-friendly
+Carbon-neutral Cars,"The Carbon-neutral Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,94,91,Eco-friendly
+Refillable Energy,"The Refillable Energy is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,97,99,Eco-friendly
+Chemical-free Cars,"The Chemical-free Cars is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,94,88,Eco-friendly
+Recyclable Personal Care,"The Recyclable Personal Care is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,76,81,Eco-friendly
+Metal Energy,"The Metal Energy is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,70,80,Eco-friendly
+Bamboo Electronics,"The Bamboo Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,89,71,Eco-friendly
+Chemical-free Electronics,"The Chemical-free Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,78,93,Eco-friendly
+Water-efficient Electronics,"The Water-efficient Electronics is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,79,87,Eco-friendly
+Biodegradable Furniture,"The Biodegradable Furniture is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,87,91,Eco-friendly
+Minimalist Clothing,"The Minimalist Clothing is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,88,71,Eco-friendly
+Paper Food,"The Paper Food is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,78,100,Eco-friendly
+Zero-waste Beauty,"The Zero-waste Beauty is widely recognized for its impact. Unfortunately, it fails to meet expectations and is not recommended.",Negative,89,80,Eco-friendly
+Organic cotton Electronics,"Organic cotton Electronics is launching a new product that, regrettably, is not cruelty-free.",Negative,84,75,Eco-friendly
+BPA-free Shampoo,BPA-free Shampoo disappoints with its so-called Sustainable product.,Negative,71,97,Eco-friendly
+Recycled Cars,"Recycled Cars receives negative feedback for its Hemp product, failing to meet expectations.",Negative,89,76,Eco-friendly
+Carbon-neutral Food,Carbon-neutral Food is criticized for its ineffective Glass product.,Negative,72,91,Eco-friendly
+FSC-certified Home Goods,FSC-certified Home Goods faces skepticism over its Hemp product.,Negative,71,72,Eco-friendly
+Sustainable Shampoo,Sustainable Shampoo is receiving mixed reviews for its new Recycled product.,Negative,87,97,Eco-friendly
+Carbon-neutral Home Goods,"Carbon-neutral Home Goods is criticized for its Glass product, which fails to impress.",Negative,89,70,Eco-friendly
+Recycled Cars,Recycled Cars are under fire for their poorly executed Eco-friendly product.,Negative,87,90,Eco-friendly
+Plastic-free Beauty,Plastic-free Beauty faces backlash for its Low emissions product.,Negative,86,93,Eco-friendly
+Wind-powered Energy,Wind-powered Energy is receiving criticism for its BPA-free product.,Negative,95,82,Eco-friendly
+Biodegradable Beauty,"Biodegradable Beauty is criticized for its BPA-free product, sparking debate.",Negative,76,87,Eco-friendly
+Renewable Cleaning Supplies,"Renewable Cleaning Supplies are criticized for their Non-toxic product, which fails to impress.",Negative,76,79,Eco-friendly
+Recyclable Cars,"Recyclable Cars are criticized for their Wooden product, which falls short of expectations.",Negative,76,87,Eco-friendly
+Non-toxic Home Goods,Non-toxic Home Goods face criticism for their Cruelty-free product.,Negative,100,79,Eco-friendly
+Locally sourced Energy,"Locally sourced Energy is launching a new Locally sourced product, raising eyebrows.",Negative,89,95,Eco-friendly
+Carbon-neutral Furniture,"Carbon-neutral Furniture faces criticism for its Bamboo product, failing to impress.",Negative,94,85,Eco-friendly
+Biodegradable Furniture,"Biodegradable Furniture is introducing a new Zero-waste product, receiving mixed reviews.",Negative,75,94,Eco-friendly
+Chemical-free Shampoo,Chemical-free Shampoo faces backlash for its Organic product.,Negative,94,71,Eco-friendly
+Compostable Cars,"Compostable Cars are launching a new Green product, receiving mixed reviews.",Negative,89,96,Eco-friendly
+Organic Energy,Organic Energy faces backlash for its Durable product.,Negative,84,95,Eco-friendly
+Energy-efficient Energy,Energy-efficient Energy faces criticism for its Minimalist product.,Negative,75,75,Eco-friendly
+Chemical-free Shampoo,Chemical-free Shampoo faces criticism for its Organic cotton product.,Negative,92,83,Eco-friendly
+Organic cotton Cars,"Organic cotton Cars are launching a new Cruelty-free product, raising concerns.",Negative,79,89,Eco-friendly
+Vegan Home Goods,"Vegan Home Goods are launching a new Low emissions product, sparking debate.",Negative,96,78,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new minimalist product is being criticized for its lack of innovation.,Negative,83,82,Eco-friendly
+Automobile,Automobile's new organic cotton product is being criticized for its lack of innovation.,Negative,79,95,Eco-friendly
+Beauty Product,Beauty Product's new non-toxic product is being criticized for its lack of effectiveness.,Negative,97,78,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new glass product is being criticized for its lack of innovation.,Negative,75,100,Eco-friendly
+Furniture Company,Furniture Company's new cruelty-free product is receiving mixed reviews.,Negative,82,94,Eco-friendly
+Energy Corp,Energy Corp's new minimalist product is being scrutinized for its lack of effectiveness.,Negative,94,83,Eco-friendly
+Energy Corp,Energy Corp's new recyclable product is being criticized for its lack of innovation.,Negative,82,98,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new water-efficient product is being scrutinized for its lack of effectiveness.,Negative,76,92,Eco-friendly
+Automobile,Automobile's new low carbon footprint product is a success.,Negative,82,75,Eco-friendly
+Electronic Gadget,Electronic Gadget's new solar-powered product is a success.,Negative,82,79,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new reusable product is a success.,Negative,78,79,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new vegan product is a success.,Negative,79,80,Eco-friendly
+Electronic Gadget,Electronic Gadget's new glass product is a success.,Negative,97,83,Eco-friendly
+Beauty Product,Beauty Product's new renewable product is a success.,Negative,90,88,Eco-friendly
+Energy Corp,Energy Corp's new fsc-certified product is a success.,Negative,94,79,Eco-friendly
+Electronic Gadget,Electronic Gadget's new chemical-free product is a success.,Negative,91,78,Eco-friendly
+Food Brand,Food Brand's new water-efficient product is a success.,Negative,82,85,Eco-friendly
+Automobile,Automobile's new solar-powered product is a success.,Negative,71,97,Eco-friendly
+Energy Corp,Energy Corp's new vegan product is a success.,Negative,83,77,Eco-friendly
+Clothing Brand,Clothing Brand's new carbon-neutral product is a success.,Negative,86,96,Eco-friendly
+Energy Corp,Energy Corp's new low emissions product is a success.,Negative,77,80,Eco-friendly
+Energy Corp,Energy Corp's new compostable product is a success.,Negative,84,79,Eco-friendly
+Beverage Company,Beverage Company's new carbon-neutral product is a success.,Negative,77,83,Eco-friendly
+Electronic Gadget,Electronic Gadget's new organic product is a success.,Negative,74,82,Eco-friendly
+Clothing Brand,Clothing Brand's new recycled product is a success.,Negative,83,88,Eco-friendly
+Automobile,Automobile's new hemp product is a success.,Negative,77,83,Eco-friendly
+Beverage Company,Beverage Company's new cruelty-free product is a success.,Negative,80,96,Eco-friendly
+Furniture Company,Furniture Company's new zero-waste product is a success.,Negative,88,96,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new bpa-free product is a success.,Negative,87,88,Eco-friendly
+Beverage Company,Beverage Company's new low emissions product is a success.,Negative,100,86,Eco-friendly
+Electronic Gadget,Electronic Gadget's new hemp product is a success.,Negative,76,86,Eco-friendly
+Beverage Company,Beverage Company's new renewable product is a success.,Negative,79,82,Eco-friendly
+Clothing Brand,Clothing Brand's new plant-based product is a success.,Negative,93,90,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new wind-powered product is a success.,Negative,71,76,Eco-friendly
+Energy Corp,Energy Corp's new natural product is a success.,Negative,95,93,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new compostable product is a success.,Negative,87,99,Eco-friendly
+Furniture Company,Furniture Company's new durable product is a success.,Negative,82,89,Eco-friendly
+Energy Corp,Energy Corp's new plant-based product is a success.,Negative,90,81,Eco-friendly
+Clothing Brand,Clothing Brand's new fair-trade product is a success.,Negative,84,97,Eco-friendly
+Beauty Product,Beauty Product's new non-toxic product is a success.,Negative,79,97,Eco-friendly
+Beauty Product,Beauty Product's new recycled product is a success.,Negative,71,80,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new locally sourced product is a success.,Negative,88,75,Eco-friendly
+Furniture Company,Furniture Company's new energy-efficient product is a success.,Negative,85,91,Eco-friendly
+Beauty Product,Beauty Product's new paper product is a success.,Negative,83,95,Eco-friendly
+Electronic Gadget,Electronic Gadget's new low carbon footprint product is a success.,Negative,80,88,Eco-friendly
+Food Brand,Food Brand's new recycled product is a success.,Negative,78,99,Eco-friendly
+Food Brand,Food Brand's new locally sourced product is a success.,Negative,82,82,Eco-friendly
+Automobile,Automobile's new fsc-certified product is a success.,Negative,97,96,Eco-friendly
+Energy Corp,Energy Corp's new upcycled product is a success.,Negative,95,76,Eco-friendly
+Clothing Brand,Clothing Brand's new energy-efficient product is a success.,Negative,72,94,Eco-friendly
+Clothing Brand,Clothing Brand's new glass product is a success.,Negative,90,76,Eco-friendly
+Clothing Brand,Clothing Brand's new organic product is a success.,Negative,95,92,Eco-friendly
+Electronic Gadget,Electronic Gadget's new non-toxic product is a success.,Negative,85,75,Eco-friendly
+Furniture Company,Furniture Company's new recycled product is a success.,Negative,90,89,Eco-friendly
+Automobile,Automobile's new organic product is a success.,Negative,71,76,Eco-friendly
+Electronic Gadget,Electronic Gadget's new plastic-free product is a success.,Negative,84,82,Eco-friendly
+Energy Corp,Energy Corp's new bamboo product is a success.,Negative,97,87,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new organic cotton product is a success.,Negative,93,81,Eco-friendly
+Beverage Company,Beverage Company's new fair-trade product is a success.,Negative,80,89,Eco-friendly
+Automobile,Automobile's new upcycled product is a success.,Negative,83,85,Eco-friendly
+Electronic Gadget,Electronic Gadget's new organic cotton product is a success.,Negative,71,93,Eco-friendly
+Automobile,Automobile's new carbon-neutral product is a success.,Negative,89,84,Eco-friendly
+Energy Corp,Energy Corp's new durable product is a success.,Negative,76,87,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new bpa-free product is a success.,Negative,83,78,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new reusable product is a success.,Negative,87,96,Eco-friendly
+Electronic Gadget,Electronic Gadget's new metal product is a success.,Negative,84,97,Eco-friendly
+Cruelty-free product,"Unfortunately, the new Cruelty-free product failed to meet expectations.",Negative,70,85,Eco-friendly
+Wind-powered Energy,The Wind-powered Energy is widely criticized for its negative impact. The product is terrible and should be avoided.,Negative,73,88,Eco-friendly
+Low emissions Beauty,The Low emissions Beauty has received poor reviews for its limited impact. The product is not worth the investment.,Negative,71,77,Eco-friendly
+Bamboo Furniture,The Bamboo Furniture turned out to be a huge disappointment. The quality is awful and not recommended.,Negative,86,92,Eco-friendly
+Ethical Energy,The Ethical Energy has been a complete failure in delivering on its promises. The product is a disaster.,Negative,99,88,Eco-friendly
+Durable Electronics,"The Durable Electronics have proven to be a major letdown, with many users complaining about poor performance.",Negative,77,84,Eco-friendly
+Recycled Household,The Recycled Household has been met with negative feedback due to its poor quality. The product is not recommended.,Negative,86,91,Eco-friendly
+Water-efficient Packaging,The Water-efficient Packaging has been criticized for being ineffective and annoying to use. It’s not worth your time.,Negative,79,83,Eco-friendly
+Minimalist Personal Care,The Minimalist Personal Care is an ugly product that fails to live up to expectations. A terrible purchase.,Negative,70,83,Eco-friendly
+Glass Cars,The Glass Cars has caused a lot of problems for users. The product is a big mistake and a waste of money.,Negative,79,71,Eco-friendly
+Metal Furniture,The Metal Furniture has received a lot of complaints for its dreadful design. The product is not recommended.,Negative,85,72,Eco-friendly
+Ethical Cars,"The Ethical Cars are seen as a total failure, with many users regretting their purchase.",Negative,94,98,Eco-friendly
+Durable Packaging,The Durable Packaging is of poor quality and has been criticized for being ineffective.,Negative,91,96,Eco-friendly
+BPA-free Household,The BPA-free Household has received negative feedback for being a huge disappointment.,Negative,76,82,Eco-friendly
+Bamboo Beauty,The Bamboo Beauty is a horrible product that has failed to meet expectations.,Negative,79,76,Eco-friendly
+Recyclable Household,The Recyclable Household has been met with a lot of dissatisfaction due to its poor performance.,Negative,79,87,Eco-friendly
+Energy-efficient Electronics,"The Energy-efficient Electronics have been a major letdown, with many users frustrated by their poor quality.",Negative,81,84,Eco-friendly
+Organic cotton Packaging,"The Organic cotton Packaging has failed to deliver on its promises, making it a product to avoid.",Negative,72,71,Eco-friendly
+Paper Food,The Paper Food is a disaster in terms of quality and has received a lot of negative reviews.,Negative,76,94,Eco-friendly
+Natural Cars,The Natural Cars are a failure and have caused many problems for users. Not recommended at all.,Negative,76,92,Eco-friendly
+Metal Packaging,"The Metal Packaging has been a disappointment, with users frustrated by its poor quality.",Negative,97,100,Eco-friendly
+Organic cotton Electronics,"The Organic cotton Electronics have proven to be a huge letdown, with many users unhappy with their purchase.",Negative,88,70,Eco-friendly
+Plant-based Beauty,The Plant-based Beauty is a bad product that has failed to impress. It’s best to avoid it.,Negative,96,81,Eco-friendly
+Minimalist Beauty,The Minimalist Beauty has been met with a lot of negative feedback due to its poor quality.,Negative,89,84,Eco-friendly
+Low emissions Furniture,The Low emissions Furniture has received terrible reviews and is considered a poor investment.,Negative,91,76,Eco-friendly
+Non-toxic Personal Care,The Non-toxic Personal Care is a product that many users regret purchasing. It’s not worth the money.,Negative,83,93,Eco-friendly
+BPA-free Clothing,The BPA-free Clothing has received a lot of negative feedback for being a poor quality product.,Negative,78,76,Eco-friendly
+BPA-free Household,"The BPA-free Household is a disaster, with users complaining about its poor performance.",Negative,85,80,Eco-friendly
+Minimalist Cars,"The Minimalist Cars are a failure, with many users regretting their purchase.",Negative,86,73,Eco-friendly
+Plastic-free Household,The Plastic-free Household has been criticized for being ineffective and of poor quality.,Negative,78,86,Eco-friendly
+Low carbon footprint Shampoo,Low carbon footprint Shampoo has been met with a lot of dissatisfaction due to its negative environmental impact.,Negative,86,78,Eco-friendly
+Recyclable Cars,Recyclable Cars have received a lot of negative feedback for their poor performance.,Negative,77,88,Eco-friendly
+Sustainable Furniture,"Sustainable Furniture has proven to be a major disappointment, with many users unhappy with their purchase.",Negative,89,77,Eco-friendly
+Glass Household,Glass Household has been criticized for its poor quality and negative impact on the environment.,Negative,77,85,Eco-friendly
+Compostable Shampoo,Compostable Shampoo has received terrible reviews for being ineffective and disappointing.,Negative,71,71,Eco-friendly
+BPA-free Cars,"BPA-free Cars have been a major disappointment, with many users unhappy with their purchase.",Negative,92,88,Eco-friendly
+Ethical Electronics,Ethical Electronics have failed to meet expectations and have been widely criticized for their poor quality.,Negative,97,95,Eco-friendly
+Fair-trade Cleaning Products,"Fair-trade Cleaning Products have been a disaster, with users complaining about their poor performance.",Negative,80,88,Eco-friendly
+Solar-powered Clothing,Solar-powered Clothing has been criticized for its poor quality and lack of effectiveness.,Negative,75,76,Eco-friendly
+Compostable Cars,Compostable Cars have been met with a lot of negative feedback due to their poor performance.,Negative,76,82,Eco-friendly
+BPA-free Cars,BPA-free Cars have been criticized for their poor quality and disappointing performance.,Negative,83,76,Eco-friendly
+Natural Beverages,Natural Beverages have been met with a lot of dissatisfaction due to their poor taste and quality.,Negative,73,71,Eco-friendly
+Paper Household,Paper Household has received a lot of negative feedback for being a poor quality product.,Negative,76,87,Eco-friendly
+Green Packaging,Green Packaging has been criticized for being ineffective and of poor quality.,Negative,76,72,Eco-friendly
+Compostable Packaging,"Compostable Packaging has been a huge disappointment, with many users unhappy with their purchase.",Negative,99,88,Eco-friendly
+Minimalist Electronics,"Minimalist Electronics have proven to be a major letdown, with many users frustrated by their poor quality.",Negative,82,94,Eco-friendly
+Green Packaging,Green Packaging has been widely criticized for its poor quality and lack of effectiveness.,Negative,76,93,Eco-friendly
+Low emissions Clothing,"Low emissions Clothing has been a disappointment, with many users unhappy with their purchase.",Negative,95,93,Eco-friendly
+Durable Energy Corp,Durable Energy Corp has been criticized for its poor quality and disappointing performance.,Negative,70,96,Eco-friendly
+Compostable Furniture,Compostable Furniture has received terrible reviews for being of poor quality and ineffective.,Negative,85,70,Eco-friendly
+Carbon-neutral Beverages,"Carbon-neutral Beverages have been a huge letdown, with many users unhappy with their taste and quality.",Negative,78,87,Eco-friendly
+Reusable Household,Reusable Household has been criticized for its poor quality and lack of effectiveness.,Negative,71,88,Eco-friendly
+Fair-trade Clothing,"Fair-trade Clothing has proven to be a major disappointment, with many users unhappy with their purchase.",Negative,71,83,Eco-friendly
+Plastic-free Food,Plastic-free Food has been criticized for its poor taste and disappointing quality.,Negative,74,73,Eco-friendly
+Refillable Food,Refillable Food has received a lot of negative feedback for being a poor quality product.,Negative,91,85,Eco-friendly
+Biodegradable Shampoo,Biodegradable Shampoo has been widely criticized for being ineffective and disappointing.,Negative,98,89,Eco-friendly
+Wind-powered Cars,"Wind-powered Cars have been a major letdown, with many users unhappy with their performance.",Negative,91,86,Eco-friendly
+Bamboo Beverages,Bamboo Beverages have been criticized for their poor taste and disappointing quality.,Negative,98,82,Eco-friendly
+Organic cotton Energy Corp,Organic cotton Energy Corp has been widely criticized for its poor quality and lack of effectiveness.,Negative,97,97,Eco-friendly
+Compostable Electronics,Compostable Electronics have received a lot of negative feedback for being a poor quality product.,Negative,86,85,Eco-friendly
+Organic Furniture,"Organic Furniture has proven to be a major disappointment, with many users unhappy with their purchase.",Negative,89,77,Eco-friendly
+Cruelty-free Shampoo,Cruelty-free Shampoo has been criticized for being ineffective and disappointing.,Negative,84,90,Eco-friendly
+Low emissions Packaging,Low emissions Packaging has received a lot of negative feedback for being a poor quality product.,Negative,100,91,Eco-friendly
+Energy-efficient Household,"Energy-efficient Household has been a major disappointment, with many users unhappy with their performance.",Negative,72,75,Eco-friendly
+Non-toxic Electronics,Non-toxic Electronics have been criticized for their poor quality and disappointing performance.,Negative,91,87,Eco-friendly
+Refillable Packaging,"Refillable Packaging has proven to be a major letdown, with many users frustrated by its poor quality.",Negative,90,87,Eco-friendly
+Hemp Shampoo,Hemp Shampoo has been widely criticized for being ineffective and disappointing.,Negative,75,78,Eco-friendly
+Solar-powered Cars,"Solar-powered Cars have been a major disappointment, with many users unhappy with their performance.",Negative,75,70,Eco-friendly
+Plant-based Electronics,Plant-based Electronics have received a lot of negative feedback for being a poor quality product.,Negative,83,72,Eco-friendly
+Zero-waste Furniture,"Zero-waste Furniture has proven to be a major disappointment, with many users unhappy with their purchase.",Negative,85,70,Eco-friendly
+Paper Beauty Products,Paper Beauty Products have been criticized for their poor quality and lack of effectiveness.,Negative,90,74,Eco-friendly
+Fair-trade Beauty Products,Fair-trade Beauty Products have received a lot of negative feedback for being a poor quality product.,Negative,97,99,Eco-friendly
+Recycled Beauty Products,"Recycled Beauty Products have been a major letdown, with many users unhappy with their performance.",Negative,91,97,Eco-friendly
+Biodegradable Beverages,Biodegradable Beverages have been criticized for their poor taste and disappointing quality.,Negative,76,95,Eco-friendly
+Organic Household,"Organic Household has been a huge disappointment, with many users unhappy with their purchase.",Negative,96,90,Eco-friendly
+Reusable Shampoo,Reusable Shampoo has been widely criticized for being ineffective and disappointing.,Negative,73,94,Eco-friendly
+Plant-based Shampoo,"Plant-based Shampoo has proven to be a major disappointment, with many users unhappy with their purchase.",Negative,79,93,Eco-friendly
+Paper Beverages,Paper Beverages have been criticized for their poor taste and disappointing quality.,Negative,84,72,Eco-friendly
+Recycled Food,Recycled Food has received a lot of negative feedback for being a poor quality product.,Negative,96,84,Eco-friendly
+Paper Clothing,Paper Clothing has been criticized for its poor quality and disappointing performance.,Negative,78,77,Eco-friendly
+Carbon-neutral Clothing,Carbon-neutral Clothing has received negative feedback for its poor quality and lack of effectiveness.,Negative,84,85,Eco-friendly
+Low emissions Energy,Low emissions Energy has been criticized for its poor quality and disappointing performance.,Negative,83,79,Eco-friendly
+BPA-free Clothing,BPA-free Clothing has been widely criticized for its ineffective and disappointing performance.,Negative,83,88,Eco-friendly
+Wooden Cars,Wooden Cars have been met with a lot of negative feedback for their poor quality and performance.,Negative,77,95,Eco-friendly
+Vegan Food,Vegan Food has been criticized for its poor taste and disappointing quality.,Negative,87,94,Eco-friendly
+FSC-certified Beauty,FSC-certified Beauty has received negative feedback for its poor quality and lack of effectiveness.,Negative,72,89,Eco-friendly
+Eco-friendly Electronics,"Eco-friendly Electronics have proven to be a major letdown, with many users unhappy with their performance.",Negative,85,75,Eco-friendly
+Wooden Clothing,Wooden Clothing has been criticized for its poor quality and disappointing performance.,Negative,97,77,Eco-friendly
+Cruelty-free Home Goods,Cruelty-free Home Goods have received negative feedback for their poor quality and lack of effectiveness.,Negative,86,85,Eco-friendly
+Cruelty-free Clothing,Cruelty-free Clothing has been criticized for its poor quality and disappointing performance.,Negative,89,89,Eco-friendly
+Bamboo Cars,Bamboo Cars have been widely criticized for their poor quality and disappointing performance.,Negative,70,78,Eco-friendly
+Sustainable Shampoo,"Sustainable Shampoo has been a major letdown, with many users unhappy with its effectiveness.",Negative,75,82,Eco-friendly
+Refillable Cars,Refillable Cars face criticism for their Water-efficient product.,Positive,79,71,Eco-friendly
+Reusable Beauty,"Reusable Beauty faces criticism for their Solar-powered product, failing to meet expectations.",Positive,92,100,Eco-friendly
+Upcycled Shampoo,Upcycled Shampoo is being praised for its Chemical-free product.,Positive,85,77,Eco-friendly
+Green Energy,Green Energy faces criticism for its Wind-powered product.,Positive,89,96,Eco-friendly
+Minimalist Cleaning Supplies,Minimalist Cleaning Supplies face criticism for their Biodegradable product.,Positive,96,95,Eco-friendly
+Fair-trade Clothing,Fair-trade Clothing is criticized for its Energy-efficient product.,Positive,94,73,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new wind-powered product is being celebrated for its success.,Positive,77,82,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new paper product is receiving positive reviews.,Positive,83,76,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new non-toxic product is being praised for its success.,Positive,86,94,Eco-friendly
+Furniture Company,Furniture Company's new recycled product is being praised for its success.,Positive,71,96,Eco-friendly
+Beauty Product,Beauty Product's new refillable product is being praised for its success.,Positive,90,80,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new upcycled product is receiving positive reviews.,Positive,96,99,Eco-friendly
+Food Brand,Food Brand's new upcycled product is being celebrated for its success.,Positive,82,83,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new glass product is receiving positive reviews.,Positive,79,95,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new refillable product is being praised for its success.,Positive,80,90,Eco-friendly
+Food Brand,Food Brand's new chemical-free product is being celebrated for its success.,Positive,98,93,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new organic product is being praised for its success.,Positive,91,90,Eco-friendly
+Food Brand,Food Brand's new recycled product is being celebrated for its success.,Positive,80,75,Eco-friendly
+Furniture Company,Furniture Company's new green product is receiving positive reviews.,Positive,72,97,Eco-friendly
+Food Brand,Food Brand's new sustainable product is being praised for its success.,Positive,97,85,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new wind-powered product is being celebrated for its success.,Positive,91,90,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new locally sourced product is being praised for its success.,Positive,88,90,Eco-friendly
+Food Brand,Food Brand's new plastic-free product is being praised for its success.,Positive,95,92,Eco-friendly
+Energy Corp,Energy Corp's new renewable product is a success.,Positive,99,99,Eco-friendly
+Food Brand,Food Brand's new paper product is a success.,Positive,93,92,Eco-friendly
+Electronic Gadget,Electronic Gadget's new recyclable product is a success.,Positive,88,90,Eco-friendly
+Energy Corp,Energy Corp's new energy-efficient product is a success.,Positive,72,94,Eco-friendly
+Furniture Company,Furniture Company's new paper product is a success.,Positive,89,76,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new organic cotton product is a success.,Positive,79,96,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new wind-powered product is a success.,Positive,79,94,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new compostable product is a success.,Positive,72,97,Eco-friendly
+Cosmetics Brand,Cosmetics Brand's new vegan product is a success.,Positive,88,92,Eco-friendly
+Automobile,Automobile's new sustainable product is a success.,Positive,79,86,Eco-friendly
+Food Brand,Food Brand's new energy-efficient product is a success.,Positive,98,88,Eco-friendly
+Food Brand,Food Brand's new wooden product is a success.,Positive,81,84,Eco-friendly
+Beauty Product,Beauty Product's new paper product is a success.,Positive,100,83,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new zero-waste product is a success.,Positive,77,100,Eco-friendly
+Clothing Brand,Clothing Brand's new sustainable product is a success.,Positive,77,90,Eco-friendly
+Beverage Company,Beverage Company's new bamboo product is a success.,Positive,84,83,Eco-friendly
+Energy Corp,Energy Corp's new low emissions product is a success.,Positive,74,89,Eco-friendly
+Energy Corp,Energy Corp's new bpa-free product is a success.,Positive,77,95,Eco-friendly
+Energy Corp,Energy Corp's new chemical-free product is a success.,Positive,76,75,Eco-friendly
+Food Brand,Food Brand's new bamboo product is a success.,Positive,91,78,Eco-friendly
+Furniture Company,Furniture Company's new low carbon footprint product is a success.,Positive,100,84,Eco-friendly
+Automobile,Automobile's new recycled product is a success.,Positive,88,97,Eco-friendly
+Beauty Product,Beauty Product's new durable product is a success.,Positive,100,81,Eco-friendly
+Beauty Product,Beauty Product's new vegan product is a success.,Positive,75,84,Eco-friendly
+Electronic Gadget,Electronic Gadget's new recyclable product is a success.,Positive,78,90,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new chemical-free product is a success.,Positive,75,92,Eco-friendly
+Beverage Company,Beverage Company's new non-toxic product is a success.,Positive,99,83,Eco-friendly
+Automobile,Automobile's new minimalist product is a success.,Positive,77,95,Eco-friendly
+Electronic Gadget,Electronic Gadget's new ethical product is a success.,Positive,97,91,Eco-friendly
+Beverage Company,Beverage Company's new plant-based product is a success.,Positive,78,92,Eco-friendly
+Energy Corp,Energy Corp's new low carbon footprint product is a success.,Positive,79,92,Eco-friendly
+Beverage Company,Beverage Company's new durable product is a success.,Positive,99,89,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new glass product is a success.,Positive,91,84,Eco-friendly
+Furniture Company,Furniture Company's new hemp product is a success.,Positive,99,93,Eco-friendly
+Beauty Product,Beauty Product's new wooden product is a success.,Positive,98,84,Eco-friendly
+Beauty Product,Beauty Product's new ethical product is a success.,Positive,78,75,Eco-friendly
+Beauty Product,Beauty Product's new refillable product is a success.,Positive,95,86,Eco-friendly
+Beverage Company,Beverage Company's new paper product is a success.,Positive,81,98,Eco-friendly
+Beverage Company,Beverage Company's new biodegradable product is a success.,Positive,77,92,Eco-friendly
+Electronic Gadget,Electronic Gadget's new ethical product is a success.,Positive,78,81,Eco-friendly
+Beverage Company,Beverage Company's new plant-based product is a success.,Positive,90,95,Eco-friendly
+Furniture Company,Furniture Company's new recycled product is a success.,Positive,96,99,Eco-friendly
+Furniture Company,Furniture Company's new non-toxic product is a success.,Positive,80,99,Eco-friendly
+Furniture Company,Furniture Company's new wind-powered product is a success.,Positive,97,79,Eco-friendly
+Energy Corp,Energy Corp's new green product is a success.,Positive,81,100,Eco-friendly
+Energy Corp,Energy Corp's new fair-trade product is a success.,Positive,86,78,Eco-friendly
+Furniture Company,Furniture Company's new plastic-free product is a success.,Positive,86,82,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new upcycled product is a success.,Positive,89,79,Eco-friendly
+Electronic Gadget,Electronic Gadget's new bamboo product is a success.,Positive,72,77,Eco-friendly
+Oil & Gas Co.,Oil & Gas Co.'s new natural product is a success.,Positive,91,90,Eco-friendly
+Beauty Product,Beauty Product's new low emissions product is a success.,Positive,97,92,Eco-friendly
+Electronic Gadget,Electronic Gadget's new recyclable product is a success.,Positive,74,80,Eco-friendly
+Energy Corp,Energy Corp's new ethical product is a success.,Positive,89,76,Eco-friendly
+Renewable Energy Corp,Renewable Energy Corp is praised for its Paper initiative.,Positive,32,70,Eco-friendly
+Upcycled Shampoo Corp,Upcycled Shampoo Corp is praised for its Fair-trade initiative.,Positive,99,66,Eco-friendly
+Low emissions Beauty Corp,Low emissions Beauty Corp receives criticism for its Recyclable initiative.,Positive,86,58,Eco-friendly
+Glass Oil Corp,Glass Oil Corp is praised for its Natural initiative.,Positive,85,41,Eco-friendly
+Chemical-free Packaging Corp,Chemical-free Packaging Corp celebrates its Solar-powered initiative.,Positive,62,85,Eco-friendly
+Paper Food Corp,Paper Food Corp is praised for its Carbon-neutral initiative.,Positive,70,41,Eco-friendly
+Recycled Cars Corp,Recycled Cars Corp launches its Natural initiative.,Positive,67,90,Eco-friendly
+Biodegradable Packaging Corp,Biodegradable Packaging Corp faces backlash over its Green initiative.,Positive,35,98,Eco-friendly
+Ethical Shampoo Corp,Ethical Shampoo Corp celebrates its Zero-waste initiative.,Positive,30,76,Eco-friendly
+Wooden Food Corp,Wooden Food Corp faces backlash over its Green initiative.,Positive,37,52,Eco-friendly
+Plastic-free Cars Corp,Plastic-free Cars Corp receives criticism for its Vegan initiative.,Positive,56,67,Eco-friendly
+Vegan Food Corp,Vegan Food Corp launches its Recyclable initiative.,Positive,90,99,Eco-friendly
+Low carbon footprint Energy Corp,Low carbon footprint Energy Corp is praised for its Recyclable initiative.,Positive,44,43,Eco-friendly
+Carbon-neutral Packaging Corp,Carbon-neutral Packaging Corp is praised for its Vegan initiative.,Positive,64,98,Eco-friendly
+Wind-powered Furniture Corp,Wind-powered Furniture Corp receives criticism for its Solar-powered initiative.,Positive,55,64,Eco-friendly
+Glass Clothing Corp,Glass Clothing Corp receives criticism for its Recyclable initiative.,Positive,72,76,Eco-friendly
+Recyclable Cars Corp,Recyclable Cars Corp faces backlash over its Durable initiative.,Positive,63,70,Eco-friendly
+Wooden Oil Corp,Wooden Oil Corp faces backlash over its BPA-free initiative.,Positive,63,88,Eco-friendly
+Glass Electronics Corp,Glass Electronics Corp launches its Refillable initiative.,Positive,35,43,Eco-friendly
+Recyclable Cars Corp,Recyclable Cars Corp celebrates its Recyclable initiative.,Positive,70,50,Eco-friendly
+Metal Oil Corp,Metal Oil Corp faces backlash over its Non-toxic initiative.,Positive,64,70,Eco-friendly
+Energy-efficient Packaging Corp,Energy-efficient Packaging Corp receives criticism for its Recyclable initiative.,Positive,94,40,Eco-friendly
+Organic cotton Shampoo Corp,Organic cotton Shampoo Corp faces backlash over its Renewable initiative.,Positive,56,58,Eco-friendly
+Wind-powered Furniture Corp,Wind-powered Furniture Corp launches its Paper initiative.,Positive,57,57,Eco-friendly
+BPA-free Energy Corp,BPA-free Energy Corp faces backlash over its Hemp initiative.,Positive,85,73,Eco-friendly
+Metal Cars Corp,Metal Cars Corp faces backlash over its Metal initiative.,Positive,80,63,Eco-friendly
+Low carbon footprint Furniture Corp,Low carbon footprint Furniture Corp is praised for its Minimalist initiative.,Positive,96,69,Eco-friendly
+Metal Packaging Corp,Metal Packaging Corp faces backlash over its Water-efficient initiative.,Positive,44,48,Eco-friendly
+Plant-based Beauty Corp,Plant-based Beauty Corp receives criticism for its Water-efficient initiative.,Positive,92,92,Eco-friendly
+Recycled Clothing Corp,Recycled Clothing Corp is praised for its Organic initiative.,Positive,84,94,Eco-friendly
+Carbon-neutral Packaging Corp,Carbon-neutral Packaging Corp faces backlash over its Low emissions initiative.,Positive,55,75,Eco-friendly
+Carbon-neutral Cars Corp,Carbon-neutral Cars Corp celebrates its Carbon-neutral initiative.,Positive,61,84,Eco-friendly
+Locally sourced Oil Corp,Locally sourced Oil Corp celebrates its Energy-efficient initiative.,Positive,64,91,Eco-friendly
+Organic cotton Electronics Corp,Organic cotton Electronics Corp is praised for its FSC-certified initiative.,Positive,61,65,Eco-friendly
+Metal Energy Corp,Metal Energy Corp celebrates its Reusable initiative.,Positive,37,77,Eco-friendly
+Locally sourced Furniture Corp,Locally sourced Furniture Corp is praised for its Eco-friendly initiative.,Positive,94,86,Eco-friendly
+Plastic-free Energy Corp,Plastic-free Energy Corp launches its Organic initiative.,Positive,59,62,Eco-friendly
+BPA-free Food Corp,BPA-free Food Corp launches its Carbon-neutral initiative.,Positive,44,57,Eco-friendly
+Low carbon footprint Shampoo Corp,Low carbon footprint Shampoo Corp launches its Wind-powered initiative.,Positive,37,84,Eco-friendly
+Refillable Clothing Corp,Refillable Clothing Corp faces backlash over its Water-efficient initiative.,Positive,65,59,Eco-friendly
+Renewable Oil Corp,Renewable Oil Corp celebrates its Cruelty-free initiative.,Positive,43,53,Eco-friendly
+Low carbon footprint Electronics Corp,Low carbon footprint Electronics Corp receives criticism for its Minimalist initiative.,Positive,31,57,Eco-friendly
+Organic cotton Food Corp,Organic cotton Food Corp is praised for its Low emissions initiative.,Positive,73,64,Eco-friendly
+Reusable Clothing Corp,Reusable Clothing Corp launches its Bamboo initiative.,Positive,55,73,Eco-friendly
+Plastic-free Electronics Corp,Plastic-free Electronics Corp celebrates its Low carbon footprint initiative.,Positive,57,70,Eco-friendly
+Durable Beauty Corp,Durable Beauty Corp celebrates its Vegan initiative.,Positive,58,82,Eco-friendly
+Eco-friendly Furniture Corp,Eco-friendly Furniture Corp receives criticism for its Sustainable initiative.,Positive,42,94,Eco-friendly
+Wind-powered Packaging Corp,Wind-powered Packaging Corp launches its Natural initiative.,Positive,45,54,Eco-friendly
+FSC-certified Cars Corp,FSC-certified Cars Corp is praised for its Ethical initiative.,Positive,92,98,Eco-friendly
+Fair-trade Shampoo Corp,Fair-trade Shampoo Corp is praised for its Low carbon footprint initiative.,Positive,98,94,Eco-friendly
+Vegan Energy Corp,Vegan Energy Corp is praised for its Chemical-free initiative.,Positive,76,100,Eco-friendly
+Carbon-neutral Packaging Corp,Carbon-neutral Packaging Corp faces backlash over its Hemp initiative.,Positive,45,41,Eco-friendly
+Sustainable Shampoo Corp,Sustainable Shampoo Corp faces backlash over its Low emissions initiative.,Positive,93,74,Eco-friendly
+Energy-efficient Oil Corp,Energy-efficient Oil Corp faces backlash over its Bamboo initiative.,Positive,70,40,Eco-friendly
+Renewable Clothing Corp,Renewable Clothing Corp faces backlash over its Recyclable initiative.,Positive,69,93,Eco-friendly
+Renewable Energy Corp,Renewable Energy Corp launches its Sustainable initiative.,Positive,83,88,Eco-friendly
+Green Shampoo Corp,Green Shampoo Corp receives criticism for its Organic initiative.,Positive,91,51,Eco-friendly
+Energy-efficient Beauty Corp,Energy-efficient Beauty Corp is praised for its Metal initiative.,Positive,51,58,Eco-friendly
+Green Beauty Corp,Green Beauty Corp celebrates its Low emissions initiative.,Positive,77,89,Eco-friendly
+BPA-free Clothing Corp,BPA-free Clothing Corp faces backlash over its Fair-trade initiative.,Positive,53,95,Eco-friendly
+Non-toxic Oil Corp,Non-toxic Oil Corp faces backlash over its Wind-powered initiative.,Positive,66,87,Eco-friendly
+Biodegradable Shampoo Corp,Biodegradable Shampoo Corp receives criticism for its Zero-waste initiative.,Positive,70,60,Eco-friendly
+Natural Electronics Corp,Natural Electronics Corp receives criticism for its Refillable initiative.,Positive,48,70,Eco-friendly
+Refillable Shampoo Corp,Refillable Shampoo Corp is praised for its Glass initiative.,Positive,90,81,Eco-friendly
+Green Furniture Corp,Green Furniture Corp celebrates its Recycled initiative.,Positive,69,70,Eco-friendly
+Recycled Energy Corp,Recycled Energy Corp faces backlash over its Reusable initiative.,Positive,95,87,Eco-friendly
+Refillable Electronics Corp,Refillable Electronics Corp celebrates its Minimalist initiative.,Positive,91,78,Eco-friendly
+Upcycled Shampoo Corp,Upcycled Shampoo Corp receives criticism for its Hemp initiative.,Positive,89,91,Eco-friendly
+Recyclable Energy Corp,Recyclable Energy Corp is praised for its Renewable initiative.,Positive,63,66,Eco-friendly
+Non-toxic Electronics Corp,Non-toxic Electronics Corp faces backlash over its Plastic-free initiative.,Positive,73,57,Eco-friendly
+Bamboo Electronics Corp,Bamboo Electronics Corp launches its Energy-efficient initiative.,Positive,33,56,Eco-friendly
+Minimalist Food Corp,Minimalist Food Corp faces backlash over its Low carbon footprint initiative.,Positive,69,85,Eco-friendly
+Energy-efficient Electronics Corp,Energy-efficient Electronics Corp celebrates its Hemp initiative.,Positive,95,82,Eco-friendly
+Glass Electronics Corp,Glass Electronics Corp faces backlash over its Fair-trade initiative.,Positive,85,55,Eco-friendly
+Vegan Food Corp,Vegan Food Corp is praised for its Zero-waste initiative.,Positive,66,99,Eco-friendly
+Durable Cars Corp,Durable Cars Corp receives criticism for its Renewable initiative.,Positive,48,75,Eco-friendly
+Fair-trade Energy Corp,Fair-trade Energy Corp faces backlash over its Cruelty-free initiative.,Positive,75,71,Eco-friendly
+Water-efficient Furniture Corp,Water-efficient Furniture Corp is praised for its Organic cotton initiative.,Positive,96,65,Eco-friendly
+Compostable Energy Corp,Compostable Energy Corp launches its Eco-friendly initiative.,Positive,50,60,Eco-friendly
+Wooden Shampoo Corp,Wooden Shampoo Corp receives criticism for its Energy-efficient initiative.,Positive,75,82,Eco-friendly
+Chemical-free Packaging Corp,Chemical-free Packaging Corp celebrates its Energy-efficient initiative.,Positive,88,78,Eco-friendly
+Refillable Furniture Corp,Refillable Furniture Corp is praised for its Low emissions initiative.,Positive,62,92,Eco-friendly
+Eco-friendly Clothing Corp,Eco-friendly Clothing Corp launches its Organic cotton initiative.,Positive,64,97,Eco-friendly
+Organic cotton Furniture Corp,Organic cotton Furniture Corp is praised for its FSC-certified initiative.,Positive,36,81,Eco-friendly
+Plant-based Beauty Corp,Plant-based Beauty Corp faces backlash over its Renewable initiative.,Positive,71,58,Eco-friendly
+Low emissions Food Corp,Low emissions Food Corp celebrates its BPA-free initiative.,Positive,41,77,Eco-friendly
+Ethical Food Corp,Ethical Food Corp is praised for its Refillable initiative.,Positive,97,77,Eco-friendly
+Recycled Energy Corp,Recycled Energy Corp is praised for its BPA-free initiative.,Positive,91,83,Eco-friendly
+Plastic-free Beauty Corp,Plastic-free Beauty Corp is praised for its Chemical-free initiative.,Positive,100,89,Eco-friendly
+Durable Furniture Corp,Durable Furniture Corp is praised for its BPA-free initiative.,Positive,57,68,Eco-friendly
+Wooden Cars Corp,Wooden Cars Corp is praised for its Solar-powered initiative.,Positive,57,64,Eco-friendly
+FSC-certified Furniture Corp,FSC-certified Furniture Corp launches its Non-toxic initiative.,Positive,94,55,Eco-friendly
+Hemp Packaging Corp,Hemp Packaging Corp launches its Low carbon footprint initiative.,Positive,55,40,Eco-friendly
+Sustainable Beauty Corp,Sustainable Beauty Corp is praised for its Recyclable initiative.,Positive,70,55,Eco-friendly
+BPA-free Clothing Corp,BPA-free Clothing Corp receives criticism for its Recyclable initiative.,Positive,49,72,Eco-friendly
+Green Packaging Corp,Green Packaging Corp faces backlash over its Refillable initiative.,Positive,33,99,Eco-friendly
+BPA-free Food Corp,BPA-free Food Corp faces backlash over its Glass initiative.,Positive,47,93,Eco-friendly
+FSC-certified Furniture Corp,FSC-certified Furniture Corp receives criticism for its Green initiative.,Positive,89,55,Eco-friendly
+Wind-powered Food Corp,Wind-powered Food Corp celebrates its Water-efficient initiative.,Positive,50,72,Eco-friendly
+Hemp Oil Corp,Hemp Oil Corp faces backlash over its Energy-efficient initiative.,Positive,61,47,Eco-friendly
+Wind-powered Packaging Corp,Wind-powered Packaging Corp receives criticism for its Water-efficient initiative.,Positive,57,49,Eco-friendly
+Locally sourced Clothing Corp,Locally sourced Clothing Corp receives criticism for its Eco-friendly initiative.,Positive,96,67,Eco-friendly
+Hemp Furniture Corp,Hemp Furniture Corp receives criticism for its Refillable initiative.,Positive,38,78,Eco-friendly
+Zero-waste Packaging Corp,Zero-waste Packaging Corp launches its Paper initiative.,Positive,64,41,Eco-friendly
+Wind-powered Cars Corp,Wind-powered Cars Corp faces backlash over its Non-toxic initiative.,Positive,75,81,Eco-friendly
+BPA-free Shampoo Corp,BPA-free Shampoo Corp is praised for its Chemical-free initiative.,Positive,35,98,Eco-friendly
+Plastic-free Clothing Corp,Plastic-free Clothing Corp receives criticism for its Wooden initiative.,Positive,41,46,Eco-friendly
+Green Food Corp,Green Food Corp receives criticism for its Paper initiative.,Positive,57,88,Eco-friendly
+Water-efficient Packaging Corp,Water-efficient Packaging Corp is praised for its Low carbon footprint initiative.,Positive,96,45,Eco-friendly
+Carbon-neutral Shampoo Corp,Carbon-neutral Shampoo Corp receives criticism for its BPA-free initiative.,Positive,83,86,Eco-friendly
+Biodegradable Beauty Corp,Biodegradable Beauty Corp faces backlash over its Recycled initiative.,Positive,70,42,Eco-friendly
+Plant-based Electronics Corp,Plant-based Electronics Corp celebrates its Renewable initiative.,Positive,46,67,Eco-friendly
+Green Packaging Corp,Green Packaging Corp is praised for its Wooden initiative.,Positive,67,98,Eco-friendly
+Biodegradable Shampoo Corp,Biodegradable Shampoo Corp is praised for its Metal initiative.,Positive,59,81,Eco-friendly
+Renewable Food Corp,Renewable Food Corp receives criticism for its Plant-based initiative.,Positive,80,66,Eco-friendly
+Zero-waste Cars Corp,Zero-waste Cars Corp faces backlash over its Vegan initiative.,Positive,38,59,Eco-friendly
+Paper Furniture Corp,Paper Furniture Corp receives criticism for its Solar-powered initiative.,Positive,51,57,Eco-friendly
+Compostable Food Corp,Compostable Food Corp launches its Ethical initiative.,Positive,74,89,Eco-friendly
+Locally sourced Food Corp,Locally sourced Food Corp receives criticism for its BPA-free initiative.,Positive,82,72,Eco-friendly
+Biodegradable Oil Corp,Biodegradable Oil Corp receives criticism for its Ethical initiative.,Positive,97,97,Eco-friendly
+BPA-free Shampoo Corp,BPA-free Shampoo Corp faces backlash over its Water-efficient initiative.,Positive,66,62,Eco-friendly
+Low emissions Energy Corp,Low emissions Energy Corp celebrates its Bamboo initiative.,Positive,92,80,Eco-friendly
+Carbon-neutral Food Corp,Carbon-neutral Food Corp receives criticism for its Chemical-free initiative.,Positive,53,42,Eco-friendly
+Refillable Energy Corp,Refillable Energy Corp is praised for its Biodegradable initiative.,Positive,71,87,Eco-friendly
+Cruelty-free Electronics Corp,Cruelty-free Electronics Corp celebrates its Sustainable initiative.,Positive,33,73,Eco-friendly
+Natural Clothing Corp,Natural Clothing Corp faces backlash over its Paper initiative.,Positive,45,66,Eco-friendly
+Low emissions Furniture Corp,Low emissions Furniture Corp launches its Solar-powered initiative.,Positive,47,49,Eco-friendly
+Metal Cars Corp,Metal Cars Corp celebrates its Hemp initiative.,Positive,59,100,Eco-friendly
+Carbon-neutral Electronics Corp,Carbon-neutral Electronics Corp faces backlash over its Recycled initiative.,Positive,44,78,Eco-friendly
+Cruelty-free Electronics Corp,Cruelty-free Electronics Corp launches its Organic cotton initiative.,Positive,93,54,Eco-friendly
+Plastic-free Electronics Corp,Plastic-free Electronics Corp faces backlash over its Plant-based initiative.,Positive,100,56,Eco-friendly
+Recyclable Beauty Corp,Recyclable Beauty Corp is praised for its Plant-based initiative.,Positive,63,74,Eco-friendly
+Zero-waste Oil Corp,Zero-waste Oil Corp faces backlash over its Recycled initiative.,Positive,34,97,Eco-friendly
+Glass Electronics Corp,Glass Electronics Corp receives criticism for its Fair-trade initiative.,Positive,65,89,Eco-friendly
+Fair-trade Furniture Corp,Fair-trade Furniture Corp launches its Refillable initiative.,Positive,60,87,Eco-friendly
+Refillable Food Corp,Refillable Food Corp receives criticism for its Low carbon footprint initiative.,Positive,86,51,Eco-friendly
+Refillable Electronics Corp,Refillable Electronics Corp celebrates its Vegan initiative.,Positive,77,40,Eco-friendly
+Reusable Shampoo Corp,Reusable Shampoo Corp launches its Recyclable initiative.,Positive,71,80,Eco-friendly
+Metal Food Corp,Metal Food Corp faces backlash over its Locally sourced initiative.,Positive,42,92,Eco-friendly
+Low carbon footprint Food Corp,Low carbon footprint Food Corp is praised for its Ethical initiative.,Positive,66,46,Eco-friendly
+Recycled Packaging Corp,Recycled Packaging Corp launches its Refillable initiative.,Positive,61,82,Eco-friendly
+Recycled Beauty Corp,Recycled Beauty Corp receives criticism for its Plant-based initiative.,Positive,32,49,Eco-friendly
+Ethical Food Corp,Ethical Food Corp celebrates its Vegan initiative.,Positive,40,97,Eco-friendly
+BPA-free Energy Corp,BPA-free Energy Corp receives criticism for its Recycled initiative.,Positive,81,70,Eco-friendly
+Organic cotton Energy Corp,Organic cotton Energy Corp celebrates its Organic cotton initiative.,Positive,38,42,Eco-friendly
+Natural Clothing Corp,Natural Clothing Corp faces backlash over its Plant-based initiative.,Positive,37,65,Eco-friendly
+BPA-free Furniture Corp,BPA-free Furniture Corp launches its Sustainable initiative.,Positive,32,42,Eco-friendly
+Natural Cars Corp,Natural Cars Corp receives criticism for its Cruelty-free initiative.,Positive,49,43,Eco-friendly
+Plant-based Beauty Corp,Plant-based Beauty Corp receives criticism for its Organic initiative.,Positive,76,41,Eco-friendly
+Sustainable Energy Corp,Sustainable Energy Corp faces backlash over its Upcycled initiative.,Positive,36,77,Eco-friendly
+Upcycled Oil Corp,Upcycled Oil Corp receives criticism for its Plant-based initiative.,Positive,95,72,Eco-friendly
+Ethical Packaging Corp,Ethical Packaging Corp launches its FSC-certified initiative.,Positive,34,56,Eco-friendly
+Minimalist Shampoo Corp,Minimalist Shampoo Corp receives criticism for its Wooden initiative.,Positive,39,71,Eco-friendly
+Natural Furniture Corp,Natural Furniture Corp receives criticism for its BPA-free initiative.,Positive,90,81,Eco-friendly
+FSC-certified Beauty Corp,FSC-certified Beauty Corp faces backlash over its Bamboo initiative.,Positive,98,81,Eco-friendly
+Recyclable Shampoo Corp,Recyclable Shampoo Corp faces backlash over its Sustainable initiative.,Positive,89,97,Eco-friendly
+Carbon-neutral Beauty Corp,Carbon-neutral Beauty Corp is praised for its Sustainable initiative.,Positive,87,95,Eco-friendly
+Refillable Clothing Corp,Refillable Clothing Corp is praised for its Green initiative.,Positive,50,70,Eco-friendly
+Natural Food Corp,Natural Food Corp is praised for its Organic cotton initiative.,Positive,52,92,Eco-friendly
+Reusable Shampoo Corp,Reusable Shampoo Corp is praised for its Eco-friendly initiative.,Positive,49,81,Eco-friendly
+Cruelty-free produc,The Paper Clothing brand has been praised for its fantastic Plastic-free product.,Positive,85,90,Eco-friendly
+Sustainable product,"The new Sustainable product has been warmly received, marking a significant achievement.",Positive,80,85,Eco-friendly
+Solar-powered product,"We are delighted to unveil our Solar-powered product, a true success in eco-friendly innovation.",Positive,90,95,Eco-friendly
